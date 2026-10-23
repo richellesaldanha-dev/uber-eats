@@ -1,0 +1,2256 @@
+review_id,order_id,rating,review_text
+REV0001,ORD03347,3,"Food was okay, delivery time was acceptable."
+REV0002,ORD03008,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0003,ORD05918,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0004,ORD00147,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0005,ORD02538,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0006,ORD01043,3,"Food was okay, delivery time was acceptable."
+REV0007,ORD03467,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0008,ORD01438,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0009,ORD01802,3,"Food was okay, delivery time was acceptable."
+REV0010,ORD00812,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0011,ORD05152,3,"Food was okay, delivery time was acceptable."
+REV0012,ORD01975,3,"Food was okay, delivery time was acceptable."
+REV0013,ORD03845,3,"Food was okay, delivery time was acceptable."
+REV0014,ORD05288,3,"Food was okay, delivery time was acceptable."
+REV0015,ORD01727,3,"Food was okay, delivery time was acceptable."
+REV0016,ORD04364,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0017,ORD04812,3,"Food was okay, delivery time was acceptable."
+REV0018,ORD01762,3,"Food was okay, delivery time was acceptable."
+REV0019,ORD01625,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0020,ORD00377,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0021,ORD01040,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0022,ORD03538,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0023,ORD03882,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0024,ORD05119,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0025,ORD04505,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0026,ORD02920,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0027,ORD02788,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0028,ORD01862,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0029,ORD05624,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0030,ORD04496,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0031,ORD01743,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0032,ORD05936,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0033,ORD03808,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0034,ORD04913,5,Food arrived burning hot and delicious!
+REV0035,ORD00829,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0036,ORD00910,3,"Food was okay, delivery time was acceptable."
+REV0037,ORD03344,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0038,ORD04500,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0039,ORD03325,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0040,ORD05214,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0041,ORD05607,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0042,ORD05061,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0043,ORD04960,3,"Food was okay, delivery time was acceptable."
+REV0044,ORD02068,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0045,ORD05646,3,"Food was okay, delivery time was acceptable."
+REV0046,ORD02956,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0047,ORD04912,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0048,ORD04052,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0049,ORD02971,3,"Food was okay, delivery time was acceptable."
+REV0050,ORD04125,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0051,ORD04509,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0052,ORD01971,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0053,ORD04104,3,"Food was okay, delivery time was acceptable."
+REV0054,ORD05684,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0055,ORD01602,3,"Food was okay, delivery time was acceptable."
+REV0056,ORD03635,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0057,ORD01442,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0058,ORD03104,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0059,ORD05408,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0060,ORD04005,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0061,ORD04268,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0062,ORD01273,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0063,ORD02817,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0064,ORD00897,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV0065,ORD05350,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0066,ORD05257,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV0067,ORD03688,3,"Food was okay, delivery time was acceptable."
+REV0068,ORD05693,5,"Incredible delivery speed, rider was courteous and professional."
+REV0069,ORD04659,3,"Food was okay, delivery time was acceptable."
+REV0070,ORD02910,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0071,ORD00900,5,Great service and tasty meal. Will definitely order again.
+REV0072,ORD01107,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0073,ORD03327,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0074,ORD03228,3,"Food was okay, delivery time was acceptable."
+REV0075,ORD04124,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0076,ORD02931,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0077,ORD02519,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0078,ORD05084,3,"Food was okay, delivery time was acceptable."
+REV0079,ORD02796,3,"Food was okay, delivery time was acceptable."
+REV0080,ORD02169,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0081,ORD02614,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0082,ORD00100,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0083,ORD01911,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0084,ORD02999,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0085,ORD02593,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0086,ORD04162,3,"Food was okay, delivery time was acceptable."
+REV0087,ORD01320,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0088,ORD02370,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0089,ORD02602,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0090,ORD04422,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0091,ORD05171,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0092,ORD03712,5,"Incredible delivery speed, rider was courteous and professional."
+REV0093,ORD00323,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0094,ORD05688,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0095,ORD05088,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0096,ORD00039,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0097,ORD00734,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0098,ORD00130,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0099,ORD00036,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0100,ORD00112,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0101,ORD05913,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0102,ORD04893,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0103,ORD00443,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0104,ORD00362,3,"Food was okay, delivery time was acceptable."
+REV0105,ORD04946,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0106,ORD04599,3,"Food was okay, delivery time was acceptable."
+REV0107,ORD04061,3,"Food was okay, delivery time was acceptable."
+REV0108,ORD03678,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0109,ORD04468,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0110,ORD02894,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0111,ORD01351,3,"Food was okay, delivery time was acceptable."
+REV0112,ORD02610,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0113,ORD03373,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0114,ORD00630,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0115,ORD01011,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0116,ORD03276,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0117,ORD02187,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0118,ORD02260,5,Food arrived burning hot and delicious!
+REV0119,ORD01047,3,"Food was okay, delivery time was acceptable."
+REV0120,ORD01459,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0121,ORD03729,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0122,ORD02077,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0123,ORD05428,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0124,ORD01770,3,"Food was okay, delivery time was acceptable."
+REV0125,ORD02793,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0126,ORD01581,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0127,ORD02964,3,"Food was okay, delivery time was acceptable."
+REV0128,ORD01305,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0129,ORD01859,3,"Food was okay, delivery time was acceptable."
+REV0130,ORD02979,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0131,ORD04665,3,"Food was okay, delivery time was acceptable."
+REV0132,ORD02736,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0133,ORD04453,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0134,ORD04058,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0135,ORD02629,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0136,ORD05090,3,"Food was okay, delivery time was acceptable."
+REV0137,ORD00229,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0138,ORD02784,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0139,ORD02108,3,"Food was okay, delivery time was acceptable."
+REV0140,ORD04493,3,"Food was okay, delivery time was acceptable."
+REV0141,ORD03603,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0142,ORD00395,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0143,ORD01461,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0144,ORD05925,5,Food arrived burning hot and delicious!
+REV0145,ORD01399,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0146,ORD04518,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0147,ORD04447,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0148,ORD02958,3,"Food was okay, delivery time was acceptable."
+REV0149,ORD05610,3,"Food was okay, delivery time was acceptable."
+REV0150,ORD04238,3,"Food was okay, delivery time was acceptable."
+REV0151,ORD00646,5,Food arrived burning hot and delicious!
+REV0152,ORD03296,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0153,ORD05920,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0154,ORD02541,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0155,ORD05397,5,Food arrived burning hot and delicious!
+REV0156,ORD04200,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0157,ORD05673,3,"Food was okay, delivery time was acceptable."
+REV0158,ORD02441,3,"Food was okay, delivery time was acceptable."
+REV0159,ORD02005,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0160,ORD01761,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0161,ORD03331,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0162,ORD05110,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0163,ORD02303,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0164,ORD03482,3,"Food was okay, delivery time was acceptable."
+REV0165,ORD03328,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0166,ORD01716,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0167,ORD01449,3,"Food was okay, delivery time was acceptable."
+REV0168,ORD04501,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0169,ORD04755,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0170,ORD00521,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0171,ORD04869,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0172,ORD05280,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0173,ORD02556,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0174,ORD00545,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0175,ORD00729,5,Food arrived burning hot and delicious!
+REV0176,ORD04577,3,"Food was okay, delivery time was acceptable."
+REV0177,ORD05820,5,"Incredible delivery speed, rider was courteous and professional."
+REV0178,ORD04547,3,"Food was okay, delivery time was acceptable."
+REV0179,ORD04088,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0180,ORD00480,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0181,ORD01884,3,"Food was okay, delivery time was acceptable."
+REV0182,ORD02296,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0183,ORD00791,3,"Food was okay, delivery time was acceptable."
+REV0184,ORD02596,4,Food arrived burning hot and delicious!
+REV0185,ORD04638,3,"Food was okay, delivery time was acceptable."
+REV0186,ORD05015,4,Food arrived burning hot and delicious!
+REV0187,ORD03048,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0188,ORD05023,3,"Food was okay, delivery time was acceptable."
+REV0189,ORD03221,3,"Food was okay, delivery time was acceptable."
+REV0190,ORD00746,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0191,ORD01169,3,"Food was okay, delivery time was acceptable."
+REV0192,ORD01813,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0193,ORD05935,3,"Food was okay, delivery time was acceptable."
+REV0194,ORD00764,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV0195,ORD00215,5,Great service and tasty meal. Will definitely order again.
+REV0196,ORD03608,3,"Food was okay, delivery time was acceptable."
+REV0197,ORD00605,3,"Food was okay, delivery time was acceptable."
+REV0198,ORD04266,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0199,ORD00879,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0200,ORD01254,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0201,ORD05365,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0202,ORD03180,3,"Food was okay, delivery time was acceptable."
+REV0203,ORD01847,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0204,ORD02221,5,Food arrived burning hot and delicious!
+REV0205,ORD01795,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0206,ORD03865,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0207,ORD02756,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0208,ORD00270,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0209,ORD00567,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0210,ORD02427,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0211,ORD02196,3,"Food was okay, delivery time was acceptable."
+REV0212,ORD04706,3,"Food was okay, delivery time was acceptable."
+REV0213,ORD02684,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0214,ORD02264,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0215,ORD04979,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0216,ORD02834,3,"Food was okay, delivery time was acceptable."
+REV0217,ORD01535,3,"Food was okay, delivery time was acceptable."
+REV0218,ORD03963,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0219,ORD00612,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0220,ORD01423,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0221,ORD03160,3,"Food was okay, delivery time was acceptable."
+REV0222,ORD02355,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0223,ORD03727,5,"Incredible delivery speed, rider was courteous and professional."
+REV0224,ORD05571,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0225,ORD01896,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0226,ORD03265,3,"Food was okay, delivery time was acceptable."
+REV0227,ORD00539,3,"Food was okay, delivery time was acceptable."
+REV0228,ORD03023,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0229,ORD04440,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0230,ORD03083,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0231,ORD04584,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0232,ORD00416,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0233,ORD00925,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0234,ORD04386,3,"Food was okay, delivery time was acceptable."
+REV0235,ORD01787,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0236,ORD05642,3,"Food was okay, delivery time was acceptable."
+REV0237,ORD05968,3,"Food was okay, delivery time was acceptable."
+REV0238,ORD05609,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0239,ORD02694,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0240,ORD00667,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0241,ORD03285,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0242,ORD04406,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0243,ORD05310,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0244,ORD05507,3,"Food was okay, delivery time was acceptable."
+REV0245,ORD03216,5,Great service and tasty meal. Will definitely order again.
+REV0246,ORD05523,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0247,ORD02435,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0248,ORD04397,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0249,ORD01998,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0250,ORD01738,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0251,ORD02751,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0252,ORD04325,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0253,ORD04825,3,"Food was okay, delivery time was acceptable."
+REV0254,ORD05713,3,"Food was okay, delivery time was acceptable."
+REV0255,ORD01644,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0256,ORD05873,3,"Food was okay, delivery time was acceptable."
+REV0257,ORD05982,5,Food arrived burning hot and delicious!
+REV0258,ORD03278,3,"Food was okay, delivery time was acceptable."
+REV0259,ORD02783,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0260,ORD01462,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0261,ORD01563,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0262,ORD05528,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0263,ORD01456,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0264,ORD05954,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0265,ORD02105,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0266,ORD01968,3,"Food was okay, delivery time was acceptable."
+REV0267,ORD02202,3,"Food was okay, delivery time was acceptable."
+REV0268,ORD05349,3,"Food was okay, delivery time was acceptable."
+REV0269,ORD03455,5,"Incredible delivery speed, rider was courteous and professional."
+REV0270,ORD02691,4,Food arrived burning hot and delicious!
+REV0271,ORD04291,3,"Food was okay, delivery time was acceptable."
+REV0272,ORD01555,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0273,ORD04680,3,"Food was okay, delivery time was acceptable."
+REV0274,ORD04024,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0275,ORD05095,3,"Food was okay, delivery time was acceptable."
+REV0276,ORD02426,3,"Food was okay, delivery time was acceptable."
+REV0277,ORD03640,3,"Food was okay, delivery time was acceptable."
+REV0278,ORD01799,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0279,ORD01223,3,"Food was okay, delivery time was acceptable."
+REV0280,ORD02272,5,Great service and tasty meal. Will definitely order again.
+REV0281,ORD05430,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0282,ORD03969,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0283,ORD01271,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0284,ORD01670,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0285,ORD00190,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0286,ORD04770,3,"Food was okay, delivery time was acceptable."
+REV0287,ORD00987,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0288,ORD00760,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0289,ORD04093,3,"Food was okay, delivery time was acceptable."
+REV0290,ORD04120,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0291,ORD05358,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0292,ORD05502,5,Great service and tasty meal. Will definitely order again.
+REV0293,ORD03223,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0294,ORD04321,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0295,ORD04892,3,"Food was okay, delivery time was acceptable."
+REV0296,ORD00219,5,Great service and tasty meal. Will definitely order again.
+REV0297,ORD04877,3,"Food was okay, delivery time was acceptable."
+REV0298,ORD00360,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0299,ORD05122,3,"Food was okay, delivery time was acceptable."
+REV0300,ORD03977,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0301,ORD04611,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0302,ORD01342,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0303,ORD00595,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0304,ORD00676,3,"Food was okay, delivery time was acceptable."
+REV0305,ORD05045,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0306,ORD03757,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0307,ORD01694,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0308,ORD02508,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0309,ORD00505,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0310,ORD02287,3,"Food was okay, delivery time was acceptable."
+REV0311,ORD00324,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0312,ORD00527,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0313,ORD04626,3,"Food was okay, delivery time was acceptable."
+REV0314,ORD04022,3,"Food was okay, delivery time was acceptable."
+REV0315,ORD03655,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0316,ORD03560,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0317,ORD02839,3,"Food was okay, delivery time was acceptable."
+REV0318,ORD04346,3,"Food was okay, delivery time was acceptable."
+REV0319,ORD01069,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0320,ORD05791,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0321,ORD05195,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0322,ORD00769,3,"Food was okay, delivery time was acceptable."
+REV0323,ORD04008,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0324,ORD01105,3,"Food was okay, delivery time was acceptable."
+REV0325,ORD01213,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0326,ORD00880,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0327,ORD04942,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0328,ORD03890,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0329,ORD02319,3,"Food was okay, delivery time was acceptable."
+REV0330,ORD03448,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0331,ORD02685,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0332,ORD05919,3,"Food was okay, delivery time was acceptable."
+REV0333,ORD04948,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0334,ORD05658,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0335,ORD02945,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0336,ORD04264,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0337,ORD01997,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0338,ORD04904,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0339,ORD02155,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0340,ORD02199,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0341,ORD03677,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0342,ORD05068,3,"Food was okay, delivery time was acceptable."
+REV0343,ORD01458,3,"Food was okay, delivery time was acceptable."
+REV0344,ORD01822,3,"Food was okay, delivery time was acceptable."
+REV0345,ORD03366,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0346,ORD00051,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0347,ORD00024,3,"Food was okay, delivery time was acceptable."
+REV0348,ORD05129,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0349,ORD02197,3,"Food was okay, delivery time was acceptable."
+REV0350,ORD04813,5,Great service and tasty meal. Will definitely order again.
+REV0351,ORD05021,3,"Food was okay, delivery time was acceptable."
+REV0352,ORD03137,3,"Food was okay, delivery time was acceptable."
+REV0353,ORD02132,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0354,ORD00589,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0355,ORD04181,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0356,ORD02040,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0357,ORD05019,3,"Food was okay, delivery time was acceptable."
+REV0358,ORD05546,3,"Food was okay, delivery time was acceptable."
+REV0359,ORD01633,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0360,ORD00651,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0361,ORD02537,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0362,ORD04703,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0363,ORD00186,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0364,ORD03980,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0365,ORD02589,5,"Incredible delivery speed, rider was courteous and professional."
+REV0366,ORD03018,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0367,ORD04233,3,"Food was okay, delivery time was acceptable."
+REV0368,ORD00591,3,"Food was okay, delivery time was acceptable."
+REV0369,ORD00748,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0370,ORD00822,3,"Food was okay, delivery time was acceptable."
+REV0371,ORD04573,3,"Food was okay, delivery time was acceptable."
+REV0372,ORD02657,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0373,ORD05206,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0374,ORD01489,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0375,ORD02460,3,"Food was okay, delivery time was acceptable."
+REV0376,ORD03764,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0377,ORD00264,5,"Incredible delivery speed, rider was courteous and professional."
+REV0378,ORD03067,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0379,ORD05826,3,"Food was okay, delivery time was acceptable."
+REV0380,ORD02739,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0381,ORD00765,5,Food arrived burning hot and delicious!
+REV0382,ORD04206,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0383,ORD03819,3,"Food was okay, delivery time was acceptable."
+REV0384,ORD03458,4,"Incredible delivery speed, rider was courteous and professional."
+REV0385,ORD04099,5,Great service and tasty meal. Will definitely order again.
+REV0386,ORD01949,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0387,ORD04818,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0388,ORD02998,3,"Food was okay, delivery time was acceptable."
+REV0389,ORD04486,3,"Food was okay, delivery time was acceptable."
+REV0390,ORD03356,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0391,ORD01714,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0392,ORD05590,5,"Incredible delivery speed, rider was courteous and professional."
+REV0393,ORD00479,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0394,ORD03182,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV0395,ORD01385,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0396,ORD02400,5,Food arrived burning hot and delicious!
+REV0397,ORD03251,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0398,ORD03236,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0399,ORD00571,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0400,ORD02341,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0401,ORD04087,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0402,ORD05637,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0403,ORD02528,3,"Food was okay, delivery time was acceptable."
+REV0404,ORD03788,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0405,ORD05436,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0406,ORD04830,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0407,ORD00038,3,"Food was okay, delivery time was acceptable."
+REV0408,ORD00413,3,"Food was okay, delivery time was acceptable."
+REV0409,ORD05025,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0410,ORD03872,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0411,ORD02856,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0412,ORD00301,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0413,ORD02922,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0414,ORD04765,3,"Food was okay, delivery time was acceptable."
+REV0415,ORD00915,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0416,ORD04489,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0417,ORD03662,3,"Food was okay, delivery time was acceptable."
+REV0418,ORD00272,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0419,ORD01513,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0420,ORD02923,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0421,ORD02665,5,Food arrived burning hot and delicious!
+REV0422,ORD01900,3,"Food was okay, delivery time was acceptable."
+REV0423,ORD00354,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0424,ORD02329,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0425,ORD02549,3,"Food was okay, delivery time was acceptable."
+REV0426,ORD02871,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0427,ORD02324,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0428,ORD02561,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0429,ORD01258,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0430,ORD02194,3,"Food was okay, delivery time was acceptable."
+REV0431,ORD04870,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0432,ORD02577,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0433,ORD05016,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0434,ORD05158,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0435,ORD01390,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0436,ORD00532,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0437,ORD04805,3,"Food was okay, delivery time was acceptable."
+REV0438,ORD03857,3,"Food was okay, delivery time was acceptable."
+REV0439,ORD05876,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0440,ORD05702,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0441,ORD05253,3,"Food was okay, delivery time was acceptable."
+REV0442,ORD01577,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0443,ORD04037,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0444,ORD00495,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0445,ORD00728,5,Food arrived burning hot and delicious!
+REV0446,ORD03446,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0447,ORD05663,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0448,ORD05895,4,"Incredible delivery speed, rider was courteous and professional."
+REV0449,ORD00346,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0450,ORD05143,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0451,ORD05263,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0452,ORD03579,5,Great service and tasty meal. Will definitely order again.
+REV0453,ORD03390,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0454,ORD00846,5,"Incredible delivery speed, rider was courteous and professional."
+REV0455,ORD01682,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0456,ORD00985,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0457,ORD03211,3,"Food was okay, delivery time was acceptable."
+REV0458,ORD05775,3,"Food was okay, delivery time was acceptable."
+REV0459,ORD02693,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0460,ORD05035,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0461,ORD02717,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0462,ORD03859,5,"Incredible delivery speed, rider was courteous and professional."
+REV0463,ORD03015,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0464,ORD04223,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0465,ORD00484,3,"Food was okay, delivery time was acceptable."
+REV0466,ORD05844,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0467,ORD05671,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0468,ORD01621,5,Food arrived burning hot and delicious!
+REV0469,ORD03728,3,"Food was okay, delivery time was acceptable."
+REV0470,ORD04749,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0471,ORD03918,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0472,ORD00775,3,"Food was okay, delivery time was acceptable."
+REV0473,ORD01131,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0474,ORD03711,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0475,ORD05871,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0476,ORD00572,5,"Incredible delivery speed, rider was courteous and professional."
+REV0477,ORD05558,5,Great service and tasty meal. Will definitely order again.
+REV0478,ORD01907,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0479,ORD03794,5,Great service and tasty meal. Will definitely order again.
+REV0480,ORD02346,3,"Food was okay, delivery time was acceptable."
+REV0481,ORD02087,3,"Food was okay, delivery time was acceptable."
+REV0482,ORD01974,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0483,ORD03233,3,"Food was okay, delivery time was acceptable."
+REV0484,ORD03068,3,"Food was okay, delivery time was acceptable."
+REV0485,ORD03444,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0486,ORD00616,3,"Food was okay, delivery time was acceptable."
+REV0487,ORD03517,3,"Food was okay, delivery time was acceptable."
+REV0488,ORD01593,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0489,ORD01660,3,"Food was okay, delivery time was acceptable."
+REV0490,ORD05221,3,"Food was okay, delivery time was acceptable."
+REV0491,ORD01097,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0492,ORD00869,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0493,ORD01989,3,"Food was okay, delivery time was acceptable."
+REV0494,ORD03971,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0495,ORD03413,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0496,ORD01201,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0497,ORD03302,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0498,ORD04732,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0499,ORD02892,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0500,ORD05173,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0501,ORD05749,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0502,ORD02916,3,"Food was okay, delivery time was acceptable."
+REV0503,ORD05640,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0504,ORD00157,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0505,ORD04543,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0506,ORD00923,3,"Food was okay, delivery time was acceptable."
+REV0507,ORD00624,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0508,ORD05694,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0509,ORD04053,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0510,ORD01230,3,"Food was okay, delivery time was acceptable."
+REV0511,ORD03869,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0512,ORD02899,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0513,ORD04306,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0514,ORD03669,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0515,ORD02474,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0516,ORD04741,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0517,ORD03192,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0518,ORD05097,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0519,ORD04337,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0520,ORD05849,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0521,ORD01378,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0522,ORD02381,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0523,ORD02898,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0524,ORD05381,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0525,ORD04925,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0526,ORD04391,3,"Food was okay, delivery time was acceptable."
+REV0527,ORD03600,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0528,ORD01546,3,"Food was okay, delivery time was acceptable."
+REV0529,ORD00903,3,"Food was okay, delivery time was acceptable."
+REV0530,ORD03998,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0531,ORD01460,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0532,ORD00988,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0533,ORD02151,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0534,ORD01668,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0535,ORD05529,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0536,ORD01867,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0537,ORD03790,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0538,ORD03540,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0539,ORD03895,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0540,ORD02274,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0541,ORD01890,3,"Food was okay, delivery time was acceptable."
+REV0542,ORD00499,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0543,ORD02944,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0544,ORD05063,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0545,ORD04328,3,"Food was okay, delivery time was acceptable."
+REV0546,ORD02007,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0547,ORD05763,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0548,ORD00966,5,Great service and tasty meal. Will definitely order again.
+REV0549,ORD02621,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0550,ORD04017,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0551,ORD02976,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0552,ORD04752,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0553,ORD03544,3,"Food was okay, delivery time was acceptable."
+REV0554,ORD04389,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0555,ORD05932,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0556,ORD00054,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0557,ORD03359,5,Great service and tasty meal. Will definitely order again.
+REV0558,ORD04428,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0559,ORD02001,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0560,ORD01475,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0561,ORD03466,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0562,ORD02623,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0563,ORD02728,3,"Food was okay, delivery time was acceptable."
+REV0564,ORD05461,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0565,ORD03300,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0566,ORD02773,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0567,ORD01702,3,"Food was okay, delivery time was acceptable."
+REV0568,ORD01931,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0569,ORD04026,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0570,ORD00325,3,"Food was okay, delivery time was acceptable."
+REV0571,ORD03834,3,"Food was okay, delivery time was acceptable."
+REV0572,ORD00754,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0573,ORD02117,3,"Food was okay, delivery time was acceptable."
+REV0574,ORD02586,5,Great service and tasty meal. Will definitely order again.
+REV0575,ORD00061,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0576,ORD03210,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0577,ORD02409,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0578,ORD01711,4,Great service and tasty meal. Will definitely order again.
+REV0579,ORD04859,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0580,ORD01684,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0581,ORD03906,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0582,ORD05591,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0583,ORD05522,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0584,ORD02878,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0585,ORD03956,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0586,ORD03085,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0587,ORD03927,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0588,ORD00913,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0589,ORD03534,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0590,ORD01564,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0591,ORD02208,3,"Food was okay, delivery time was acceptable."
+REV0592,ORD05357,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0593,ORD05031,3,"Food was okay, delivery time was acceptable."
+REV0594,ORD00047,3,"Food was okay, delivery time was acceptable."
+REV0595,ORD00800,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0596,ORD04450,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0597,ORD04795,3,"Food was okay, delivery time was acceptable."
+REV0598,ORD01933,3,"Food was okay, delivery time was acceptable."
+REV0599,ORD04551,3,"Food was okay, delivery time was acceptable."
+REV0600,ORD04329,3,"Food was okay, delivery time was acceptable."
+REV0601,ORD03679,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0602,ORD05269,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0603,ORD02775,3,"Food was okay, delivery time was acceptable."
+REV0604,ORD00394,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0605,ORD04497,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0606,ORD00437,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0607,ORD01919,3,"Food was okay, delivery time was acceptable."
+REV0608,ORD03851,3,"Food was okay, delivery time was acceptable."
+REV0609,ORD04837,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0610,ORD03518,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0611,ORD03410,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0612,ORD03656,3,"Food was okay, delivery time was acceptable."
+REV0613,ORD03435,3,"Food was okay, delivery time was acceptable."
+REV0614,ORD05595,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0615,ORD01672,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0616,ORD01536,3,"Food was okay, delivery time was acceptable."
+REV0617,ORD02608,3,"Food was okay, delivery time was acceptable."
+REV0618,ORD00657,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0619,ORD01331,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0620,ORD04563,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0621,ORD00436,3,"Food was okay, delivery time was acceptable."
+REV0622,ORD01181,3,"Food was okay, delivery time was acceptable."
+REV0623,ORD03664,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0624,ORD05199,3,"Food was okay, delivery time was acceptable."
+REV0625,ORD04176,5,Food arrived burning hot and delicious!
+REV0626,ORD02129,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0627,ORD00604,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0628,ORD00273,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0629,ORD00090,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0630,ORD03379,3,"Food was okay, delivery time was acceptable."
+REV0631,ORD04681,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0632,ORD04520,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0633,ORD02543,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0634,ORD05816,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0635,ORD00526,3,"Food was okay, delivery time was acceptable."
+REV0636,ORD01161,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0637,ORD05994,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0638,ORD03178,3,"Food was okay, delivery time was acceptable."
+REV0639,ORD00810,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0640,ORD01589,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0641,ORD01837,3,"Food was okay, delivery time was acceptable."
+REV0642,ORD02203,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0643,ORD01275,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV0644,ORD03961,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0645,ORD04676,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0646,ORD03511,5,"Incredible delivery speed, rider was courteous and professional."
+REV0647,ORD04865,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0648,ORD03756,3,"Food was okay, delivery time was acceptable."
+REV0649,ORD02928,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0650,ORD05675,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0651,ORD03938,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0652,ORD01110,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0653,ORD00286,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0654,ORD00911,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0655,ORD02770,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0656,ORD04293,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0657,ORD04949,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0658,ORD02448,3,"Food was okay, delivery time was acceptable."
+REV0659,ORD03154,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0660,ORD03010,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0661,ORD00606,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0662,ORD04834,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0663,ORD01568,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0664,ORD05685,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0665,ORD03649,3,"Food was okay, delivery time was acceptable."
+REV0666,ORD04846,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0667,ORD00534,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0668,ORD00511,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0669,ORD01812,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0670,ORD02587,3,"Food was okay, delivery time was acceptable."
+REV0671,ORD01560,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0672,ORD04040,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0673,ORD03031,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV0674,ORD04084,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0675,ORD05005,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0676,ORD04699,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0677,ORD05795,3,"Food was okay, delivery time was acceptable."
+REV0678,ORD04773,4,"Incredible delivery speed, rider was courteous and professional."
+REV0679,ORD01208,3,"Food was okay, delivery time was acceptable."
+REV0680,ORD03606,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0681,ORD00387,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0682,ORD01614,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0683,ORD04705,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0684,ORD03901,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0685,ORD02959,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0686,ORD03133,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0687,ORD01666,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0688,ORD01265,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0689,ORD03873,3,"Food was okay, delivery time was acceptable."
+REV0690,ORD04041,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0691,ORD02239,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0692,ORD01062,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0693,ORD01162,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0694,ORD05768,3,"Food was okay, delivery time was acceptable."
+REV0695,ORD02241,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0696,ORD03817,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0697,ORD00739,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0698,ORD04304,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0699,ORD03975,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0700,ORD03287,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0701,ORD03591,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0702,ORD01014,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0703,ORD05465,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0704,ORD03937,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0705,ORD04791,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0706,ORD02084,3,"Food was okay, delivery time was acceptable."
+REV0707,ORD03903,5,Food arrived burning hot and delicious!
+REV0708,ORD05111,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0709,ORD01973,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0710,ORD00389,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0711,ORD05824,3,"Food was okay, delivery time was acceptable."
+REV0712,ORD00327,3,"Food was okay, delivery time was acceptable."
+REV0713,ORD00809,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0714,ORD01880,3,"Food was okay, delivery time was acceptable."
+REV0715,ORD03082,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0716,ORD04382,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0717,ORD01477,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0718,ORD05168,3,"Food was okay, delivery time was acceptable."
+REV0719,ORD02715,3,"Food was okay, delivery time was acceptable."
+REV0720,ORD04784,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0721,ORD05113,3,"Food was okay, delivery time was acceptable."
+REV0722,ORD00017,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0723,ORD00621,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0724,ORD03957,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0725,ORD02768,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0726,ORD01943,3,"Food was okay, delivery time was acceptable."
+REV0727,ORD00755,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0728,ORD03897,3,"Food was okay, delivery time was acceptable."
+REV0729,ORD04112,3,"Food was okay, delivery time was acceptable."
+REV0730,ORD05149,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0731,ORD00355,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0732,ORD04575,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0733,ORD02271,3,"Food was okay, delivery time was acceptable."
+REV0734,ORD04762,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0735,ORD00847,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0736,ORD02893,3,"Food was okay, delivery time was acceptable."
+REV0737,ORD04148,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0738,ORD05359,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0739,ORD01421,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0740,ORD05957,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0741,ORD01632,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0742,ORD05325,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0743,ORD05057,3,"Food was okay, delivery time was acceptable."
+REV0744,ORD00638,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0745,ORD04852,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0746,ORD01483,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0747,ORD04639,3,"Food was okay, delivery time was acceptable."
+REV0748,ORD01921,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0749,ORD04866,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0750,ORD02581,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0751,ORD00117,3,"Food was okay, delivery time was acceptable."
+REV0752,ORD01176,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0753,ORD02186,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0754,ORD05306,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0755,ORD04466,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0756,ORD04936,3,"Food was okay, delivery time was acceptable."
+REV0757,ORD03110,3,"Food was okay, delivery time was acceptable."
+REV0758,ORD05944,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0759,ORD01810,3,"Food was okay, delivery time was acceptable."
+REV0760,ORD04203,3,"Food was okay, delivery time was acceptable."
+REV0761,ORD00078,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0762,ORD00378,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0763,ORD01111,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0764,ORD05255,5,"Incredible delivery speed, rider was courteous and professional."
+REV0765,ORD05783,5,Great service and tasty meal. Will definitely order again.
+REV0766,ORD04669,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0767,ORD00430,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0768,ORD03181,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0769,ORD03943,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0770,ORD04986,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0771,ORD00113,3,"Food was okay, delivery time was acceptable."
+REV0772,ORD05999,3,"Food was okay, delivery time was acceptable."
+REV0773,ORD00883,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0774,ORD01744,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0775,ORD04790,3,"Food was okay, delivery time was acceptable."
+REV0776,ORD05286,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0777,ORD00107,3,"Food was okay, delivery time was acceptable."
+REV0778,ORD03059,3,"Food was okay, delivery time was acceptable."
+REV0779,ORD04277,3,"Food was okay, delivery time was acceptable."
+REV0780,ORD03073,3,"Food was okay, delivery time was acceptable."
+REV0781,ORD00253,3,"Food was okay, delivery time was acceptable."
+REV0782,ORD03912,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0783,ORD04015,3,"Food was okay, delivery time was acceptable."
+REV0784,ORD01333,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0785,ORD04377,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0786,ORD03694,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0787,ORD04301,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0788,ORD01198,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0789,ORD03893,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0790,ORD00763,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0791,ORD00860,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0792,ORD02228,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0793,ORD02619,5,Food arrived burning hot and delicious!
+REV0794,ORD04630,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0795,ORD04282,3,"Food was okay, delivery time was acceptable."
+REV0796,ORD05464,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0797,ORD03559,3,"Food was okay, delivery time was acceptable."
+REV0798,ORD04808,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0799,ORD01427,5,Food arrived burning hot and delicious!
+REV0800,ORD04600,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0801,ORD00972,5,"Incredible delivery speed, rider was courteous and professional."
+REV0802,ORD04868,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0803,ORD02273,3,"Food was okay, delivery time was acceptable."
+REV0804,ORD03499,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0805,ORD00751,3,"Food was okay, delivery time was acceptable."
+REV0806,ORD01523,3,"Food was okay, delivery time was acceptable."
+REV0807,ORD04956,3,"Food was okay, delivery time was acceptable."
+REV0808,ORD03751,3,"Food was okay, delivery time was acceptable."
+REV0809,ORD02323,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0810,ORD05727,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0811,ORD01906,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0812,ORD05185,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0813,ORD05483,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0814,ORD03614,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0815,ORD00145,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0816,ORD03459,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0817,ORD00412,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0818,ORD01089,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0819,ORD04378,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0820,ORD00997,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0821,ORD00782,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0822,ORD03289,3,"Food was okay, delivery time was acceptable."
+REV0823,ORD02470,3,"Food was okay, delivery time was acceptable."
+REV0824,ORD01995,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0825,ORD01857,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0826,ORD03427,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0827,ORD02031,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0828,ORD01582,3,"Food was okay, delivery time was acceptable."
+REV0829,ORD01803,3,"Food was okay, delivery time was acceptable."
+REV0830,ORD05654,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0831,ORD03852,3,"Food was okay, delivery time was acceptable."
+REV0832,ORD03438,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0833,ORD01135,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0834,ORD04581,5,Food arrived burning hot and delicious!
+REV0835,ORD01446,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0836,ORD00014,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0837,ORD00481,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0838,ORD02560,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0839,ORD04034,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0840,ORD02374,3,"Food was okay, delivery time was acceptable."
+REV0841,ORD05017,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0842,ORD00896,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0843,ORD05748,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0844,ORD01139,3,"Food was okay, delivery time was acceptable."
+REV0845,ORD05589,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0846,ORD05371,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0847,ORD01496,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0848,ORD04287,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0849,ORD00094,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0850,ORD03848,3,"Food was okay, delivery time was acceptable."
+REV0851,ORD03833,3,"Food was okay, delivery time was acceptable."
+REV0852,ORD03777,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0853,ORD05978,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0854,ORD01962,5,Great service and tasty meal. Will definitely order again.
+REV0855,ORD05151,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0856,ORD00284,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0857,ORD00856,3,"Food was okay, delivery time was acceptable."
+REV0858,ORD02794,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0859,ORD05138,3,"Food was okay, delivery time was acceptable."
+REV0860,ORD00583,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0861,ORD03721,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0862,ORD01645,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0863,ORD01895,3,"Food was okay, delivery time was acceptable."
+REV0864,ORD05008,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0865,ORD05449,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0866,ORD01345,3,"Food was okay, delivery time was acceptable."
+REV0867,ORD00858,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0868,ORD01955,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0869,ORD01520,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0870,ORD00742,4,Food arrived burning hot and delicious!
+REV0871,ORD05575,3,"Food was okay, delivery time was acceptable."
+REV0872,ORD01376,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0873,ORD05324,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0874,ORD04527,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0875,ORD04072,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0876,ORD00170,3,"Food was okay, delivery time was acceptable."
+REV0877,ORD04835,3,"Food was okay, delivery time was acceptable."
+REV0878,ORD02193,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0879,ORD01676,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0880,ORD02234,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0881,ORD04383,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0882,ORD04219,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0883,ORD00587,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0884,ORD03568,3,"Food was okay, delivery time was acceptable."
+REV0885,ORD01710,5,Food arrived burning hot and delicious!
+REV0886,ORD04769,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0887,ORD02063,3,"Food was okay, delivery time was acceptable."
+REV0888,ORD01259,3,"Food was okay, delivery time was acceptable."
+REV0889,ORD00068,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0890,ORD02395,3,"Food was okay, delivery time was acceptable."
+REV0891,ORD05499,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0892,ORD05992,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0893,ORD00826,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0894,ORD02752,3,"Food was okay, delivery time was acceptable."
+REV0895,ORD04481,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0896,ORD05039,5,Food arrived burning hot and delicious!
+REV0897,ORD01428,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0898,ORD01269,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0899,ORD01571,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0900,ORD05540,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0901,ORD04862,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0902,ORD02981,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0903,ORD02495,5,Great service and tasty meal. Will definitely order again.
+REV0904,ORD05107,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0905,ORD02771,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0906,ORD05657,3,"Food was okay, delivery time was acceptable."
+REV0907,ORD02424,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0908,ORD05266,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0909,ORD04771,3,"Food was okay, delivery time was acceptable."
+REV0910,ORD04939,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0911,ORD05827,3,"Food was okay, delivery time was acceptable."
+REV0912,ORD02985,3,"Food was okay, delivery time was acceptable."
+REV0913,ORD04515,5,Food arrived burning hot and delicious!
+REV0914,ORD02325,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0915,ORD05974,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0916,ORD01492,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0917,ORD05833,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0918,ORD01242,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0919,ORD05378,3,"Food was okay, delivery time was acceptable."
+REV0920,ORD05773,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0921,ORD01086,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0922,ORD00294,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0923,ORD01144,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0924,ORD00602,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0925,ORD02360,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0926,ORD01901,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0927,ORD02237,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0928,ORD04424,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0929,ORD03162,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0930,ORD00388,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0931,ORD00670,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0932,ORD01316,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0933,ORD03860,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0934,ORD02477,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0935,ORD03428,3,"Food was okay, delivery time was acceptable."
+REV0936,ORD01742,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0937,ORD02188,4,Great service and tasty meal. Will definitely order again.
+REV0938,ORD01119,3,"Food was okay, delivery time was acceptable."
+REV0939,ORD02464,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0940,ORD02551,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0941,ORD04257,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0942,ORD05032,5,Great service and tasty meal. Will definitely order again.
+REV0943,ORD05077,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0944,ORD05699,4,Great service and tasty meal. Will definitely order again.
+REV0945,ORD00148,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0946,ORD04499,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0947,ORD03997,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0948,ORD05814,5,"Incredible delivery speed, rider was courteous and professional."
+REV0949,ORD04634,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0950,ORD00331,3,"Food was okay, delivery time was acceptable."
+REV0951,ORD02432,5,"Incredible delivery speed, rider was courteous and professional."
+REV0952,ORD00365,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0953,ORD04613,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0954,ORD03111,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0955,ORD02855,3,"Food was okay, delivery time was acceptable."
+REV0956,ORD02642,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0957,ORD03465,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0958,ORD03231,3,"Food was okay, delivery time was acceptable."
+REV0959,ORD05475,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0960,ORD03736,3,"Food was okay, delivery time was acceptable."
+REV0961,ORD04759,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0962,ORD02879,3,"Food was okay, delivery time was acceptable."
+REV0963,ORD01915,3,"Food was okay, delivery time was acceptable."
+REV0964,ORD05245,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0965,ORD01643,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0966,ORD02832,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0967,ORD03256,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0968,ORD02226,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0969,ORD04035,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0970,ORD00743,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0971,ORD04529,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0972,ORD01681,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0973,ORD02455,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0974,ORD03382,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0975,ORD03158,3,"Food was okay, delivery time was acceptable."
+REV0976,ORD03871,3,"Food was okay, delivery time was acceptable."
+REV0977,ORD05065,3,"Food was okay, delivery time was acceptable."
+REV0978,ORD03754,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0979,ORD01789,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0980,ORD02222,3,"Food was okay, delivery time was acceptable."
+REV0981,ORD04141,4,Food arrived burning hot and delicious!
+REV0982,ORD02120,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0983,ORD03140,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0984,ORD04502,3,"Food was okay, delivery time was acceptable."
+REV0985,ORD01018,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0986,ORD02688,3,"Food was okay, delivery time was acceptable."
+REV0987,ORD05650,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0988,ORD00557,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV0989,ORD03469,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0990,ORD02242,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0991,ORD05093,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0992,ORD03387,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV0993,ORD04585,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV0994,ORD01848,3,"Portion sizes were smaller than expected, but arrived on time."
+REV0995,ORD00085,5,Great service and tasty meal. Will definitely order again.
+REV0996,ORD05261,3,"Food was okay, delivery time was acceptable."
+REV0997,ORD05447,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV0998,ORD05071,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV0999,ORD01794,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1000,ORD02327,5,"Incredible delivery speed, rider was courteous and professional."
+REV1001,ORD02387,5,"Incredible delivery speed, rider was courteous and professional."
+REV1002,ORD04352,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1003,ORD01329,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1004,ORD02823,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1005,ORD02857,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1006,ORD01724,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1007,ORD03780,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1008,ORD04326,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1009,ORD01058,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1010,ORD05880,3,"Food was okay, delivery time was acceptable."
+REV1011,ORD01038,5,"Incredible delivery speed, rider was courteous and professional."
+REV1012,ORD00169,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1013,ORD05524,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1014,ORD01755,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1015,ORD04438,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1016,ORD01148,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1017,ORD00636,3,"Food was okay, delivery time was acceptable."
+REV1018,ORD05086,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1019,ORD02213,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1020,ORD03801,3,"Food was okay, delivery time was acceptable."
+REV1021,ORD01403,3,"Food was okay, delivery time was acceptable."
+REV1022,ORD05841,4,Great service and tasty meal. Will definitely order again.
+REV1023,ORD00344,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1024,ORD04957,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1025,ORD05723,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1026,ORD04774,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1027,ORD02473,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1028,ORD01487,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1029,ORD00045,3,"Food was okay, delivery time was acceptable."
+REV1030,ORD05161,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1031,ORD00289,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1032,ORD00564,3,"Food was okay, delivery time was acceptable."
+REV1033,ORD00158,3,"Food was okay, delivery time was acceptable."
+REV1034,ORD01729,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1035,ORD05100,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1036,ORD04256,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1037,ORD00635,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1038,ORD03993,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1039,ORD04897,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1040,ORD05442,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1041,ORD04150,3,"Food was okay, delivery time was acceptable."
+REV1042,ORD04292,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1043,ORD01410,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1044,ORD04140,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1045,ORD01136,3,"Food was okay, delivery time was acceptable."
+REV1046,ORD04811,3,"Food was okay, delivery time was acceptable."
+REV1047,ORD00074,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1048,ORD05094,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1049,ORD02988,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1050,ORD01085,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1051,ORD00087,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1052,ORD03951,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1053,ORD04565,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1054,ORD01876,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1055,ORD01757,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1056,ORD00139,3,"Food was okay, delivery time was acceptable."
+REV1057,ORD05078,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1058,ORD00684,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1059,ORD04482,3,"Food was okay, delivery time was acceptable."
+REV1060,ORD02268,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1061,ORD03944,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1062,ORD01126,3,"Food was okay, delivery time was acceptable."
+REV1063,ORD00310,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1064,ORD02703,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1065,ORD00361,3,"Food was okay, delivery time was acceptable."
+REV1066,ORD05387,3,"Food was okay, delivery time was acceptable."
+REV1067,ORD05335,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1068,ORD01839,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1069,ORD02563,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1070,ORD02666,3,"Food was okay, delivery time was acceptable."
+REV1071,ORD03758,3,"Food was okay, delivery time was acceptable."
+REV1072,ORD02484,5,"Incredible delivery speed, rider was courteous and professional."
+REV1073,ORD01436,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1074,ORD03625,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1075,ORD05888,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1076,ORD05389,3,"Food was okay, delivery time was acceptable."
+REV1077,ORD04845,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1078,ORD00989,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1079,ORD05988,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1080,ORD04247,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1081,ORD03964,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1082,ORD04888,5,Food arrived burning hot and delicious!
+REV1083,ORD00502,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1084,ORD03349,5,Food arrived burning hot and delicious!
+REV1085,ORD03814,5,"Incredible delivery speed, rider was courteous and professional."
+REV1086,ORD03947,3,"Food was okay, delivery time was acceptable."
+REV1087,ORD00351,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1088,ORD02852,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1089,ORD04605,3,"Food was okay, delivery time was acceptable."
+REV1090,ORD04456,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1091,ORD04236,3,"Food was okay, delivery time was acceptable."
+REV1092,ORD01467,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1093,ORD05952,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1094,ORD02911,3,"Food was okay, delivery time was acceptable."
+REV1095,ORD04359,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1096,ORD05148,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1097,ORD05003,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1098,ORD02043,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1099,ORD02690,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1100,ORD00132,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1101,ORD01484,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1102,ORD00257,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1103,ORD01071,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1104,ORD05308,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1105,ORD04696,3,"Food was okay, delivery time was acceptable."
+REV1106,ORD02903,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1107,ORD05680,3,"Food was okay, delivery time was acceptable."
+REV1108,ORD04096,3,"Food was okay, delivery time was acceptable."
+REV1109,ORD05276,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1110,ORD00618,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1111,ORD03224,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1112,ORD02861,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1113,ORD05866,3,"Food was okay, delivery time was acceptable."
+REV1114,ORD02937,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1115,ORD00064,3,"Food was okay, delivery time was acceptable."
+REV1116,ORD05265,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1117,ORD02953,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1118,ORD00843,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1119,ORD03892,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1120,ORD02156,3,"Food was okay, delivery time was acceptable."
+REV1121,ORD00891,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1122,ORD05645,3,"Food was okay, delivery time was acceptable."
+REV1123,ORD05616,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1124,ORD02003,5,Great service and tasty meal. Will definitely order again.
+REV1125,ORD00908,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1126,ORD03986,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1127,ORD00460,3,"Food was okay, delivery time was acceptable."
+REV1128,ORD00747,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1129,ORD02158,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1130,ORD05368,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1131,ORD04726,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1132,ORD03492,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1133,ORD04742,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1134,ORD00811,3,"Food was okay, delivery time was acceptable."
+REV1135,ORD04092,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1136,ORD02481,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1137,ORD05914,3,"Food was okay, delivery time was acceptable."
+REV1138,ORD00864,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1139,ORD04177,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1140,ORD02838,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1141,ORD00131,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1142,ORD00263,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1143,ORD01917,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1144,ORD00905,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1145,ORD00727,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1146,ORD04541,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1147,ORD04900,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1148,ORD03464,3,"Food was okay, delivery time was acceptable."
+REV1149,ORD00954,5,Food arrived burning hot and delicious!
+REV1150,ORD03854,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1151,ORD03622,3,"Food was okay, delivery time was acceptable."
+REV1152,ORD02695,4,"Incredible delivery speed, rider was courteous and professional."
+REV1153,ORD05758,3,"Food was okay, delivery time was acceptable."
+REV1154,ORD03827,3,"Food was okay, delivery time was acceptable."
+REV1155,ORD04571,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1156,ORD04156,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1157,ORD02115,3,"Food was okay, delivery time was acceptable."
+REV1158,ORD00141,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1159,ORD00584,4,"Incredible delivery speed, rider was courteous and professional."
+REV1160,ORD03209,3,"Food was okay, delivery time was acceptable."
+REV1161,ORD03515,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1162,ORD00483,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1163,ORD03948,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1164,ORD02251,3,"Food was okay, delivery time was acceptable."
+REV1165,ORD00770,3,"Food was okay, delivery time was acceptable."
+REV1166,ORD03301,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1167,ORD03501,3,"Food was okay, delivery time was acceptable."
+REV1168,ORD01322,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1169,ORD03707,3,"Food was okay, delivery time was acceptable."
+REV1170,ORD04963,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1171,ORD02869,3,"Food was okay, delivery time was acceptable."
+REV1172,ORD03915,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1173,ORD01180,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1174,ORD03952,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1175,ORD04594,5,"Incredible delivery speed, rider was courteous and professional."
+REV1176,ORD04798,3,"Food was okay, delivery time was acceptable."
+REV1177,ORD01118,3,"Food was okay, delivery time was acceptable."
+REV1178,ORD00456,3,"Food was okay, delivery time was acceptable."
+REV1179,ORD02486,3,"Food was okay, delivery time was acceptable."
+REV1180,ORD04678,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1181,ORD05062,3,"Food was okay, delivery time was acceptable."
+REV1182,ORD05124,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1183,ORD04366,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1184,ORD02189,3,"Food was okay, delivery time was acceptable."
+REV1185,ORD05857,3,"Food was okay, delivery time was acceptable."
+REV1186,ORD03027,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1187,ORD05948,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1188,ORD04199,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1189,ORD01370,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1190,ORD04455,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1191,ORD02509,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1192,ORD04504,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1193,ORD05414,3,"Food was okay, delivery time was acceptable."
+REV1194,ORD04557,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1195,ORD03991,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1196,ORD00095,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1197,ORD02848,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1198,ORD05164,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1199,ORD03264,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1200,ORD03701,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1201,ORD02969,3,"Food was okay, delivery time was acceptable."
+REV1202,ORD04688,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1203,ORD05190,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1204,ORD01452,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1205,ORD01173,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1206,ORD02405,5,Great service and tasty meal. Will definitely order again.
+REV1207,ORD04228,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1208,ORD02133,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1209,ORD03691,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1210,ORD03389,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1211,ORD05284,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1212,ORD04954,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1213,ORD03899,3,"Food was okay, delivery time was acceptable."
+REV1214,ORD02573,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1215,ORD05400,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1216,ORD01599,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1217,ORD04754,5,Food arrived burning hot and delicious!
+REV1218,ORD02517,3,"Food was okay, delivery time was acceptable."
+REV1219,ORD00601,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1220,ORD01324,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1221,ORD00367,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1222,ORD03842,3,"Food was okay, delivery time was acceptable."
+REV1223,ORD01016,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1224,ORD00660,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1225,ORD04077,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1226,ORD01636,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1227,ORD03607,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1228,ORD00666,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1229,ORD04134,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1230,ORD00690,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1231,ORD03092,3,"Food was okay, delivery time was acceptable."
+REV1232,ORD04246,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1233,ORD00541,5,Food arrived burning hot and delicious!
+REV1234,ORD03697,3,"Food was okay, delivery time was acceptable."
+REV1235,ORD02138,5,Great service and tasty meal. Will definitely order again.
+REV1236,ORD03299,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1237,ORD04592,3,"Food was okay, delivery time was acceptable."
+REV1238,ORD04355,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1239,ORD00338,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1240,ORD01561,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1241,ORD01772,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1242,ORD05481,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1243,ORD02534,5,Food arrived burning hot and delicious!
+REV1244,ORD01057,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1245,ORD01337,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1246,ORD02330,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1247,ORD01834,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1248,ORD05667,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1249,ORD02644,5,"Incredible delivery speed, rider was courteous and professional."
+REV1250,ORD01697,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1251,ORD03066,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1252,ORD03001,5,Food arrived burning hot and delicious!
+REV1253,ORD05635,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1254,ORD00851,3,"Food was okay, delivery time was acceptable."
+REV1255,ORD01063,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1256,ORD03576,5,Great service and tasty meal. Will definitely order again.
+REV1257,ORD04993,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1258,ORD00551,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1259,ORD04685,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1260,ORD02217,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1261,ORD04561,3,"Food was okay, delivery time was acceptable."
+REV1262,ORD04733,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1263,ORD02915,3,"Food was okay, delivery time was acceptable."
+REV1264,ORD02171,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1265,ORD02315,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1266,ORD01659,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1267,ORD02520,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1268,ORD00803,3,"Food was okay, delivery time was acceptable."
+REV1269,ORD04828,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1270,ORD02420,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1271,ORD04932,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1272,ORD00370,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1273,ORD01776,3,"Food was okay, delivery time was acceptable."
+REV1274,ORD05153,3,"Food was okay, delivery time was acceptable."
+REV1275,ORD03252,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1276,ORD01800,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1277,ORD00639,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1278,ORD03078,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1279,ORD01029,3,"Food was okay, delivery time was acceptable."
+REV1280,ORD00977,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1281,ORD03141,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1282,ORD00694,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1283,ORD01740,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1284,ORD00128,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1285,ORD02905,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1286,ORD05497,3,"Food was okay, delivery time was acceptable."
+REV1287,ORD05246,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1288,ORD01540,5,Food arrived burning hot and delicious!
+REV1289,ORD01229,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1290,ORD01646,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1291,ORD00345,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1292,ORD03380,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1293,ORD01433,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1294,ORD05691,3,"Food was okay, delivery time was acceptable."
+REV1295,ORD04067,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1296,ORD03548,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1297,ORD03246,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1298,ORD00640,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1299,ORD04388,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1300,ORD05260,3,"Food was okay, delivery time was acceptable."
+REV1301,ORD04281,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1302,ORD05033,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1303,ORD04221,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1304,ORD00222,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1305,ORD01441,3,"Food was okay, delivery time was acceptable."
+REV1306,ORD01500,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1307,ORD05818,4,"Incredible delivery speed, rider was courteous and professional."
+REV1308,ORD04400,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1309,ORD04814,5,Great service and tasty meal. Will definitely order again.
+REV1310,ORD04994,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1311,ORD04523,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1312,ORD04334,5,"Incredible delivery speed, rider was courteous and professional."
+REV1313,ORD02257,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1314,ORD05527,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1315,ORD01394,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1316,ORD05496,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1317,ORD04694,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1318,ORD02785,5,Food arrived burning hot and delicious!
+REV1319,ORD04393,3,"Food was okay, delivery time was acceptable."
+REV1320,ORD04612,3,"Food was okay, delivery time was acceptable."
+REV1321,ORD04045,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1322,ORD01338,3,"Food was okay, delivery time was acceptable."
+REV1323,ORD00097,3,"Food was okay, delivery time was acceptable."
+REV1324,ORD01319,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1325,ORD00309,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1326,ORD04968,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1327,ORD05726,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1328,ORD02456,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1329,ORD04078,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1330,ORD03283,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1331,ORD00415,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1332,ORD01127,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1333,ORD00330,3,"Food was okay, delivery time was acceptable."
+REV1334,ORD02313,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1335,ORD01811,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1336,ORD03322,3,"Food was okay, delivery time was acceptable."
+REV1337,ORD03125,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1338,ORD04955,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1339,ORD05943,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1340,ORD05272,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1341,ORD00291,3,"Food was okay, delivery time was acceptable."
+REV1342,ORD03320,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1343,ORD03765,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1344,ORD02434,3,"Food was okay, delivery time was acceptable."
+REV1345,ORD03033,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1346,ORD02841,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1347,ORD03011,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1348,ORD04394,3,"Food was okay, delivery time was acceptable."
+REV1349,ORD03197,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1350,ORD02722,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1351,ORD05196,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1352,ORD05058,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1353,ORD02954,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1354,ORD02949,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1355,ORD01292,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1356,ORD02831,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1357,ORD03533,3,"Food was okay, delivery time was acceptable."
+REV1358,ORD00971,5,"Incredible delivery speed, rider was courteous and professional."
+REV1359,ORD02468,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1360,ORD03063,3,"Food was okay, delivery time was acceptable."
+REV1361,ORD05197,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1362,ORD03352,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1363,ORD01358,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1364,ORD05511,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1365,ORD03866,3,"Food was okay, delivery time was acceptable."
+REV1366,ORD04278,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1367,ORD03421,3,"Food was okay, delivery time was acceptable."
+REV1368,ORD03484,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1369,ORD00785,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1370,ORD00735,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1371,ORD00917,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1372,ORD00031,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1373,ORD00620,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1374,ORD02913,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1375,ORD03326,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1376,ORD04173,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1377,ORD05213,5,Great service and tasty meal. Will definitely order again.
+REV1378,ORD04670,3,"Food was okay, delivery time was acceptable."
+REV1379,ORD00801,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1380,ORD03480,3,"Food was okay, delivery time was acceptable."
+REV1381,ORD03900,5,Great service and tasty meal. Will definitely order again.
+REV1382,ORD05977,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1383,ORD03498,4,Food arrived burning hot and delicious!
+REV1384,ORD00716,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1385,ORD01039,3,"Food was okay, delivery time was acceptable."
+REV1386,ORD05588,3,"Food was okay, delivery time was acceptable."
+REV1387,ORD00326,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1388,ORD01587,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1389,ORD00450,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1390,ORD01122,3,"Food was okay, delivery time was acceptable."
+REV1391,ORD00489,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1392,ORD00573,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1393,ORD05513,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1394,ORD03314,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1395,ORD01773,3,"Food was okay, delivery time was acceptable."
+REV1396,ORD01909,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1397,ORD01381,5,"Incredible delivery speed, rider was courteous and professional."
+REV1398,ORD00744,5,Food arrived burning hot and delicious!
+REV1399,ORD01819,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1400,ORD04524,3,"Food was okay, delivery time was acceptable."
+REV1401,ORD01559,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1402,ORD05884,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1403,ORD02310,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1404,ORD04736,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1405,ORD03575,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1406,ORD03929,3,"Food was okay, delivery time was acceptable."
+REV1407,ORD05020,3,"Food was okay, delivery time was acceptable."
+REV1408,ORD01260,3,"Food was okay, delivery time was acceptable."
+REV1409,ORD02513,3,"Food was okay, delivery time was acceptable."
+REV1410,ORD04350,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1411,ORD01042,3,"Food was okay, delivery time was acceptable."
+REV1412,ORD05890,3,"Food was okay, delivery time was acceptable."
+REV1413,ORD01856,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1414,ORD00546,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1415,ORD01490,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1416,ORD05176,3,"Food was okay, delivery time was acceptable."
+REV1417,ORD03968,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1418,ORD01212,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1419,ORD01108,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1420,ORD05517,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1421,ORD00544,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1422,ORD03547,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1423,ORD01323,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1424,ORD03535,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1425,ORD03586,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1426,ORD04567,5,"Incredible delivery speed, rider was courteous and professional."
+REV1427,ORD01075,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1428,ORD05046,3,"Food was okay, delivery time was acceptable."
+REV1429,ORD04800,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1430,ORD03738,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1431,ORD02624,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1432,ORD01166,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1433,ORD04882,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1434,ORD05477,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1435,ORD00779,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1436,ORD00512,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1437,ORD04671,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1438,ORD00393,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1439,ORD02135,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1440,ORD00006,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1441,ORD02940,3,"Food was okay, delivery time was acceptable."
+REV1442,ORD00611,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1443,ORD05619,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1444,ORD02259,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1445,ORD02828,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1446,ORD04667,3,"Food was okay, delivery time was acceptable."
+REV1447,ORD03782,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1448,ORD02429,5,Great service and tasty meal. Will definitely order again.
+REV1449,ORD05205,3,"Food was okay, delivery time was acceptable."
+REV1450,ORD00577,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1451,ORD03096,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1452,ORD01235,4,"Incredible delivery speed, rider was courteous and professional."
+REV1453,ORD01871,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV1454,ORD04204,5,Great service and tasty meal. Will definitely order again.
+REV1455,ORD03052,3,"Food was okay, delivery time was acceptable."
+REV1456,ORD05438,3,"Food was okay, delivery time was acceptable."
+REV1457,ORD05128,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1458,ORD02267,3,"Food was okay, delivery time was acceptable."
+REV1459,ORD02453,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1460,ORD02490,3,"Food was okay, delivery time was acceptable."
+REV1461,ORD00678,3,"Food was okay, delivery time was acceptable."
+REV1462,ORD05472,3,"Food was okay, delivery time was acceptable."
+REV1463,ORD01469,3,"Food was okay, delivery time was acceptable."
+REV1464,ORD02099,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1465,ORD04230,5,Great service and tasty meal. Will definitely order again.
+REV1466,ORD04402,3,"Food was okay, delivery time was acceptable."
+REV1467,ORD03449,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1468,ORD01700,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1469,ORD04298,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1470,ORD05985,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1471,ORD05109,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1472,ORD00373,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1473,ORD01142,3,"Food was okay, delivery time was acceptable."
+REV1474,ORD02909,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1475,ORD05224,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1476,ORD05705,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1477,ORD03770,3,"Food was okay, delivery time was acceptable."
+REV1478,ORD03121,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1479,ORD01334,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1480,ORD04444,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1481,ORD02010,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1482,ORD01072,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1483,ORD02233,3,"Food was okay, delivery time was acceptable."
+REV1484,ORD02447,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1485,ORD00978,5,Food arrived burning hot and delicious!
+REV1486,ORD05041,5,"Incredible delivery speed, rider was courteous and professional."
+REV1487,ORD00951,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1488,ORD01175,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1489,ORD03497,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1490,ORD03849,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1491,ORD01833,3,"Food was okay, delivery time was acceptable."
+REV1492,ORD00265,5,Food arrived burning hot and delicious!
+REV1493,ORD01130,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1494,ORD01937,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1495,ORD02184,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1496,ORD01188,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1497,ORD00142,3,"Food was okay, delivery time was acceptable."
+REV1498,ORD01662,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1499,ORD05437,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1500,ORD05183,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1501,ORD04690,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1502,ORD04137,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1503,ORD04358,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1504,ORD01138,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1505,ORD01478,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1506,ORD02553,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1507,ORD04303,3,"Food was okay, delivery time was acceptable."
+REV1508,ORD02362,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1509,ORD00555,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1510,ORD01986,3,"Food was okay, delivery time was acceptable."
+REV1511,ORD02148,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1512,ORD02285,3,"Food was okay, delivery time was acceptable."
+REV1513,ORD03994,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1514,ORD01832,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1515,ORD04525,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1516,ORD05401,3,"Food was okay, delivery time was acceptable."
+REV1517,ORD01060,3,"Food was okay, delivery time was acceptable."
+REV1518,ORD05717,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1519,ORD00804,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1520,ORD04070,3,"Food was okay, delivery time was acceptable."
+REV1521,ORD05765,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1522,ORD05029,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1523,ORD03933,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1524,ORD02698,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1525,ORD02175,3,"Food was okay, delivery time was acceptable."
+REV1526,ORD03207,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1527,ORD01356,3,"Food was okay, delivery time was acceptable."
+REV1528,ORD02276,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1529,ORD03755,3,"Food was okay, delivery time was acceptable."
+REV1530,ORD00196,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1531,ORD05552,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1532,ORD03564,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1533,ORD03708,3,"Food was okay, delivery time was acceptable."
+REV1534,ORD04526,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1535,ORD00524,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1536,ORD03902,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV1537,ORD05403,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1538,ORD03308,5,Great service and tasty meal. Will definitely order again.
+REV1539,ORD02524,3,"Food was okay, delivery time was acceptable."
+REV1540,ORD04323,5,"Incredible delivery speed, rider was courteous and professional."
+REV1541,ORD00788,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1542,ORD01174,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1543,ORD01158,3,"Food was okay, delivery time was acceptable."
+REV1544,ORD00396,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1545,ORD04218,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1546,ORD01611,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1547,ORD05064,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1548,ORD04373,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1549,ORD03989,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1550,ORD03907,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1551,ORD00982,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1552,ORD03949,5,Great service and tasty meal. Will definitely order again.
+REV1553,ORD03353,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1554,ORD01013,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1555,ORD04728,3,"Food was okay, delivery time was acceptable."
+REV1556,ORD02735,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1557,ORD04617,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1558,ORD00738,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1559,ORD04138,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1560,ORD01942,5,Food arrived burning hot and delicious!
+REV1561,ORD03959,3,"Food was okay, delivery time was acceptable."
+REV1562,ORD03318,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1563,ORD00209,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1564,ORD03647,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1565,ORD01049,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1566,ORD05146,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1567,ORD01216,3,"Food was okay, delivery time was acceptable."
+REV1568,ORD02606,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1569,ORD02137,3,"Food was okay, delivery time was acceptable."
+REV1570,ORD04051,3,"Food was okay, delivery time was acceptable."
+REV1571,ORD02925,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1572,ORD00379,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1573,ORD05733,3,"Food was okay, delivery time was acceptable."
+REV1574,ORD00709,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1575,ORD00721,3,"Food was okay, delivery time was acceptable."
+REV1576,ORD04657,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1577,ORD05300,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1578,ORD01945,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1579,ORD04215,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1580,ORD05802,3,"Food was okay, delivery time was acceptable."
+REV1581,ORD04042,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1582,ORD03726,3,"Food was okay, delivery time was acceptable."
+REV1583,ORD02150,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1584,ORD03496,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1585,ORD05777,4,Food arrived burning hot and delicious!
+REV1586,ORD04407,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1587,ORD04976,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1588,ORD01015,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1589,ORD04476,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1590,ORD05230,3,"Food was okay, delivery time was acceptable."
+REV1591,ORD02585,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1592,ORD02882,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1593,ORD05851,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1594,ORD00164,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1595,ORD05686,5,"Incredible delivery speed, rider was courteous and professional."
+REV1596,ORD04310,5,Great service and tasty meal. Will definitely order again.
+REV1597,ORD05941,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1598,ORD05724,3,"Food was okay, delivery time was acceptable."
+REV1599,ORD05766,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1600,ORD04241,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1601,ORD01413,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV1602,ORD00383,3,"Food was okay, delivery time was acceptable."
+REV1603,ORD03173,5,"Incredible delivery speed, rider was courteous and professional."
+REV1604,ORD04718,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1605,ORD03028,3,"Food was okay, delivery time was acceptable."
+REV1606,ORD01282,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1607,ORD02790,3,"Food was okay, delivery time was acceptable."
+REV1608,ORD00737,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1609,ORD04123,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1610,ORD04809,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1611,ORD02254,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1612,ORD05965,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1613,ORD05157,4,Great service and tasty meal. Will definitely order again.
+REV1614,ORD02451,3,"Food was okay, delivery time was acceptable."
+REV1615,ORD04794,5,Food arrived burning hot and delicious!
+REV1616,ORD02369,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1617,ORD00550,3,"Food was okay, delivery time was acceptable."
+REV1618,ORD02361,3,"Food was okay, delivery time was acceptable."
+REV1619,ORD02669,3,"Food was okay, delivery time was acceptable."
+REV1620,ORD01115,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1621,ORD00293,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1622,ORD05485,3,"Food was okay, delivery time was acceptable."
+REV1623,ORD05740,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1624,ORD01491,3,"Food was okay, delivery time was acceptable."
+REV1625,ORD05584,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1626,ORD00793,3,"Food was okay, delivery time was acceptable."
+REV1627,ORD00457,3,"Food was okay, delivery time was acceptable."
+REV1628,ORD05764,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1629,ORD03168,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1630,ORD04655,3,"Food was okay, delivery time was acceptable."
+REV1631,ORD02166,3,"Food was okay, delivery time was acceptable."
+REV1632,ORD00192,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1633,ORD01547,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1634,ORD05567,3,"Food was okay, delivery time was acceptable."
+REV1635,ORD01044,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1636,ORD00476,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1637,ORD02847,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV1638,ORD03936,3,"Food was okay, delivery time was acceptable."
+REV1639,ORD05469,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1640,ORD04259,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1641,ORD01556,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1642,ORD03071,3,"Food was okay, delivery time was acceptable."
+REV1643,ORD02067,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1644,ORD02076,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1645,ORD02029,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1646,ORD02588,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1647,ORD04484,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1648,ORD02544,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1649,ORD01550,3,"Food was okay, delivery time was acceptable."
+REV1650,ORD04234,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1651,ORD04122,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1652,ORD04467,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1653,ORD03058,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1654,ORD04055,3,"Food was okay, delivery time was acceptable."
+REV1655,ORD05801,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1656,ORD05049,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1657,ORD04878,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1658,ORD04803,3,"Food was okay, delivery time was acceptable."
+REV1659,ORD05617,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1660,ORD02521,3,"Food was okay, delivery time was acceptable."
+REV1661,ORD05966,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1662,ORD04285,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1663,ORD02440,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1664,ORD05615,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1665,ORD02114,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1666,ORD01245,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1667,ORD04006,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1668,ORD02386,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1669,ORD04227,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1670,ORD00887,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1671,ORD01807,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1672,ORD05840,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1673,ORD01233,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1674,ORD04165,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1675,ORD00342,5,Food arrived burning hot and delicious!
+REV1676,ORD00048,3,"Food was okay, delivery time was acceptable."
+REV1677,ORD00079,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1678,ORD05384,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1679,ORD04894,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1680,ORD04318,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1681,ORD02164,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1682,ORD05861,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1683,ORD00336,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1684,ORD01934,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1685,ORD00220,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1686,ORD03702,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1687,ORD02467,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1688,ORD05804,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1689,ORD02707,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1690,ORD03259,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1691,ORD03519,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1692,ORD00464,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1693,ORD00349,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1694,ORD05819,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1695,ORD04789,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1696,ORD04861,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1697,ORD04410,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1698,ORD05915,3,"Food was okay, delivery time was acceptable."
+REV1699,ORD05024,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1700,ORD04739,3,"Food was okay, delivery time was acceptable."
+REV1701,ORD05875,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1702,ORD04645,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1703,ORD05756,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1704,ORD05509,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1705,ORD02889,3,"Food was okay, delivery time was acceptable."
+REV1706,ORD00305,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1707,ORD02558,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1708,ORD02569,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1709,ORD01916,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1710,ORD01332,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1711,ORD03088,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1712,ORD04569,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1713,ORD00221,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1714,ORD04562,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1715,ORD04697,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1716,ORD00986,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1717,ORD00322,5,Great service and tasty meal. Will definitely order again.
+REV1718,ORD05299,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1719,ORD04443,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1720,ORD02299,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1721,ORD03374,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1722,ORD04829,3,"Food was okay, delivery time was acceptable."
+REV1723,ORD03875,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1724,ORD01318,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1725,ORD00685,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1726,ORD05587,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1727,ORD02223,3,"Food was okay, delivery time was acceptable."
+REV1728,ORD05369,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1729,ORD01220,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1730,ORD00592,4,Great service and tasty meal. Will definitely order again.
+REV1731,ORD03666,5,Food arrived burning hot and delicious!
+REV1732,ORD05492,3,"Food was okay, delivery time was acceptable."
+REV1733,ORD02326,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1734,ORD05720,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1735,ORD00200,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1736,ORD02719,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1737,ORD04252,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1738,ORD03089,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1739,ORD05613,3,"Food was okay, delivery time was acceptable."
+REV1740,ORD02547,3,"Food was okay, delivery time was acceptable."
+REV1741,ORD05331,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1742,ORD03879,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1743,ORD03335,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1744,ORD02615,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1745,ORD05931,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1746,ORD02466,3,"Food was okay, delivery time was acceptable."
+REV1747,ORD00672,3,"Food was okay, delivery time was acceptable."
+REV1748,ORD05778,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1749,ORD01218,5,Great service and tasty meal. Will definitely order again.
+REV1750,ORD00506,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1751,ORD05147,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1752,ORD01268,5,"Incredible delivery speed, rider was courteous and professional."
+REV1753,ORD05127,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1754,ORD03343,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1755,ORD04345,3,"Food was okay, delivery time was acceptable."
+REV1756,ORD03442,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1757,ORD05803,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1758,ORD01918,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1759,ORD03718,3,"Food was okay, delivery time was acceptable."
+REV1760,ORD00086,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1761,ORD01737,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1762,ORD00044,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1763,ORD00692,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1764,ORD04511,3,"Food was okay, delivery time was acceptable."
+REV1765,ORD00459,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1766,ORD02825,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1767,ORD02462,5,"Incredible delivery speed, rider was courteous and professional."
+REV1768,ORD03523,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1769,ORD05872,3,"Food was okay, delivery time was acceptable."
+REV1770,ORD02617,3,"Food was okay, delivery time was acceptable."
+REV1771,ORD03388,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1772,ORD05309,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1773,ORD01341,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1774,ORD00441,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1775,ORD01022,3,"Food was okay, delivery time was acceptable."
+REV1776,ORD00177,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1777,ORD05858,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1778,ORD03700,3,"Food was okay, delivery time was acceptable."
+REV1779,ORD02345,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1780,ORD03617,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1781,ORD02921,3,"Food was okay, delivery time was acceptable."
+REV1782,ORD05788,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1783,ORD00429,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1784,ORD04730,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1785,ORD02727,3,"Food was okay, delivery time was acceptable."
+REV1786,ORD02501,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1787,ORD01872,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1788,ORD03462,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1789,ORD04807,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1790,ORD03960,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1791,ORD05780,3,"Food was okay, delivery time was acceptable."
+REV1792,ORD05593,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1793,ORD04549,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1794,ORD05670,3,"Food was okay, delivery time was acceptable."
+REV1795,ORD03245,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1796,ORD04753,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1797,ORD01251,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1798,ORD05854,5,"Incredible delivery speed, rider was courteous and professional."
+REV1799,ORD04606,3,"Food was okay, delivery time was acceptable."
+REV1800,ORD04658,3,"Food was okay, delivery time was acceptable."
+REV1801,ORD05352,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1802,ORD04478,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1803,ORD04014,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1804,ORD01140,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1805,ORD05096,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1806,ORD03551,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1807,ORD01373,4,Food arrived burning hot and delicious!
+REV1808,ORD02034,3,"Food was okay, delivery time was acceptable."
+REV1809,ORD00029,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1810,ORD05946,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1811,ORD05112,5,Food arrived burning hot and delicious!
+REV1812,ORD03072,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1813,ORD05799,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1814,ORD00271,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1815,ORD05649,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1816,ORD00405,3,"Food was okay, delivery time was acceptable."
+REV1817,ORD05583,3,"Food was okay, delivery time was acceptable."
+REV1818,ORD03797,3,"Food was okay, delivery time was acceptable."
+REV1819,ORD04157,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1820,ORD00808,3,"Food was okay, delivery time was acceptable."
+REV1821,ORD00759,3,"Food was okay, delivery time was acceptable."
+REV1822,ORD03894,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1823,ORD05745,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1824,ORD04843,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1825,ORD01087,4,"Incredible delivery speed, rider was courteous and professional."
+REV1826,ORD04744,3,"Food was okay, delivery time was acceptable."
+REV1827,ORD03919,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1828,ORD02295,3,"Food was okay, delivery time was acceptable."
+REV1829,ORD01177,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1830,ORD00369,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1831,ORD02305,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1832,ORD00867,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1833,ORD05453,3,"Food was okay, delivery time was acceptable."
+REV1834,ORD05599,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1835,ORD02437,3,"Food was okay, delivery time was acceptable."
+REV1836,ORD03131,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1837,ORD03573,3,"Food was okay, delivery time was acceptable."
+REV1838,ORD00163,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1839,ORD03486,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1840,ORD04891,3,"Food was okay, delivery time was acceptable."
+REV1841,ORD00528,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1842,ORD01878,3,"Food was okay, delivery time was acceptable."
+REV1843,ORD02450,3,"Food was okay, delivery time was acceptable."
+REV1844,ORD03821,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1845,ORD03316,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1846,ORD03784,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1847,ORD02697,3,"Food was okay, delivery time was acceptable."
+REV1848,ORD03958,5,Food arrived burning hot and delicious!
+REV1849,ORD00677,3,"Food was okay, delivery time was acceptable."
+REV1850,ORD04781,3,"Food was okay, delivery time was acceptable."
+REV1851,ORD01521,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1852,ORD02300,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1853,ORD05707,3,"Food was okay, delivery time was acceptable."
+REV1854,ORD04548,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1855,ORD02417,3,"Food was okay, delivery time was acceptable."
+REV1856,ORD03214,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1857,ORD04427,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1858,ORD03552,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1859,ORD05751,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1860,ORD04046,3,"Food was okay, delivery time was acceptable."
+REV1861,ORD03120,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1862,ORD00952,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1863,ORD04312,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1864,ORD04905,3,"Food was okay, delivery time was acceptable."
+REV1865,ORD04710,5,Food arrived burning hot and delicious!
+REV1866,ORD03639,3,"Food was okay, delivery time was acceptable."
+REV1867,ORD00894,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1868,ORD05431,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1869,ORD03295,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1870,ORD03687,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1871,ORD05471,3,"Food was okay, delivery time was acceptable."
+REV1872,ORD01687,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1873,ORD00003,3,"Food was okay, delivery time was acceptable."
+REV1874,ORD00366,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1875,ORD03093,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1876,ORD03185,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1877,ORD02812,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1878,ORD00288,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1879,ORD00382,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1880,ORD00569,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1881,ORD05011,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1882,ORD02797,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1883,ORD03681,3,"Food was okay, delivery time was acceptable."
+REV1884,ORD01100,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1885,ORD00299,3,"Food was okay, delivery time was acceptable."
+REV1886,ORD01983,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1887,ORD00704,3,"Food was okay, delivery time was acceptable."
+REV1888,ORD04967,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV1889,ORD00140,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1890,ORD00411,3,"Food was okay, delivery time was acceptable."
+REV1891,ORD02214,3,"Food was okay, delivery time was acceptable."
+REV1892,ORD04982,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1893,ORD02246,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1894,ORD04707,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1895,ORD03787,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1896,ORD05101,5,Great service and tasty meal. Will definitely order again.
+REV1897,ORD01424,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1898,ORD03317,5,"Incredible delivery speed, rider was courteous and professional."
+REV1899,ORD03146,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1900,ORD00226,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1901,ORD05034,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1902,ORD02814,3,"Food was okay, delivery time was acceptable."
+REV1903,ORD00844,3,"Food was okay, delivery time was acceptable."
+REV1904,ORD01689,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1905,ORD05484,5,Great service and tasty meal. Will definitely order again.
+REV1906,ORD03019,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1907,ORD05714,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1908,ORD02182,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1909,ORD03174,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1910,ORD01717,3,"Food was okay, delivery time was acceptable."
+REV1911,ORD01879,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1912,ORD05317,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1913,ORD02554,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1914,ORD03350,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1915,ORD05080,3,"Food was okay, delivery time was acceptable."
+REV1916,ORD03355,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1917,ORD03471,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1918,ORD03862,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1919,ORD00114,3,"Food was okay, delivery time was acceptable."
+REV1920,ORD00364,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1921,ORD01008,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1922,ORD04270,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1923,ORD00197,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1924,ORD03171,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1925,ORD04553,3,"Food was okay, delivery time was acceptable."
+REV1926,ORD04158,3,"Food was okay, delivery time was acceptable."
+REV1927,ORD01494,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1928,ORD00070,5,"Incredible delivery speed, rider was courteous and professional."
+REV1929,ORD04113,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV1930,ORD00063,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1931,ORD04375,5,Great service and tasty meal. Will definitely order again.
+REV1932,ORD05454,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1933,ORD05837,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1934,ORD01779,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1935,ORD03038,3,"Food was okay, delivery time was acceptable."
+REV1936,ORD02292,3,"Food was okay, delivery time was acceptable."
+REV1937,ORD00133,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1938,ORD00281,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1939,ORD00414,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1940,ORD02960,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1941,ORD00399,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1942,ORD04983,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1943,ORD02929,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1944,ORD00375,5,Food arrived burning hot and delicious!
+REV1945,ORD00358,3,"Food was okay, delivery time was acceptable."
+REV1946,ORD02414,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1947,ORD02394,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1948,ORD03415,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1949,ORD04591,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1950,ORD05104,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1951,ORD02146,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV1952,ORD05410,3,"Food was okay, delivery time was acceptable."
+REV1953,ORD02842,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1954,ORD03257,3,"Food was okay, delivery time was acceptable."
+REV1955,ORD02411,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1956,ORD00663,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1957,ORD05468,3,"Food was okay, delivery time was acceptable."
+REV1958,ORD04111,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1959,ORD04434,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1960,ORD00183,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1961,ORD04166,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1962,ORD03526,5,"Incredible delivery speed, rider was courteous and professional."
+REV1963,ORD00084,3,"Food was okay, delivery time was acceptable."
+REV1964,ORD02649,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1965,ORD04578,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1966,ORD00767,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1967,ORD03139,3,"Food was okay, delivery time was acceptable."
+REV1968,ORD00753,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1969,ORD04745,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV1970,ORD03306,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1971,ORD03930,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1972,ORD03123,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1973,ORD01182,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1974,ORD05759,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1975,ORD03338,3,"Food was okay, delivery time was acceptable."
+REV1976,ORD00449,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1977,ORD04379,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1978,ORD01673,3,"Food was okay, delivery time was acceptable."
+REV1979,ORD00553,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1980,ORD02840,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1981,ORD03609,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1982,ORD04020,3,"Food was okay, delivery time was acceptable."
+REV1983,ORD00135,5,Great service and tasty meal. Will definitely order again.
+REV1984,ORD01285,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV1985,ORD00173,3,"Food was okay, delivery time was acceptable."
+REV1986,ORD05889,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1987,ORD05870,3,"Food was okay, delivery time was acceptable."
+REV1988,ORD02071,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1989,ORD02655,5,Great service and tasty meal. Will definitely order again.
+REV1990,ORD05229,5,"Incredible delivery speed, rider was courteous and professional."
+REV1991,ORD03346,3,"Portion sizes were smaller than expected, but arrived on time."
+REV1992,ORD00424,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1993,ORD01870,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1994,ORD01531,3,"Food was okay, delivery time was acceptable."
+REV1995,ORD03531,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV1996,ORD02454,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV1997,ORD04128,3,"Food was okay, delivery time was acceptable."
+REV1998,ORD05842,3,"Food was okay, delivery time was acceptable."
+REV1999,ORD04082,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2000,ORD02605,5,Great service and tasty meal. Will definitely order again.
+REV2001,ORD04816,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2002,ORD05881,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2003,ORD03698,3,"Food was okay, delivery time was acceptable."
+REV2004,ORD00750,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2005,ORD00936,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2006,ORD02725,3,"Food was okay, delivery time was acceptable."
+REV2007,ORD02643,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2008,ORD00037,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2009,ORD01863,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2010,ORD01745,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2011,ORD05388,3,"Food was okay, delivery time was acceptable."
+REV2012,ORD02302,3,"Food was okay, delivery time was acceptable."
+REV2013,ORD00568,3,"Food was okay, delivery time was acceptable."
+REV2014,ORD01808,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2015,ORD04048,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2016,ORD03905,5,Great service and tasty meal. Will definitely order again.
+REV2017,ORD03468,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2018,ORD03183,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2019,ORD01828,5,"Incredible delivery speed, rider was courteous and professional."
+REV2020,ORD02207,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2021,ORD05810,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV2022,ORD03341,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2023,ORD01963,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2024,ORD05087,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2025,ORD03796,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2026,ORD04650,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2027,ORD00110,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2028,ORD03542,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2029,ORD04586,3,"Food was okay, delivery time was acceptable."
+REV2030,ORD00129,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2031,ORD04914,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2032,ORD01041,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2033,ORD01205,3,"Food was okay, delivery time was acceptable."
+REV2034,ORD05132,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2035,ORD00245,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2036,ORD01845,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2037,ORD05379,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2038,ORD05612,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2039,ORD02149,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2040,ORD04380,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV2041,ORD04907,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2042,ORD03269,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2043,ORD00080,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2044,ORD03457,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2045,ORD03407,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2046,ORD05355,5,Great service and tasty meal. Will definitely order again.
+REV2047,ORD00050,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2048,ORD02353,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2049,ORD03201,3,"Food was okay, delivery time was acceptable."
+REV2050,ORD05426,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2051,ORD00805,3,"Food was okay, delivery time was acceptable."
+REV2052,ORD05566,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2053,ORD05746,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2054,ORD03409,3,"Food was okay, delivery time was acceptable."
+REV2055,ORD00868,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2056,ORD00203,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2057,ORD05500,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2058,ORD05082,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2059,ORD04395,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2060,ORD04576,3,"Food was okay, delivery time was acceptable."
+REV2061,ORD00841,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2062,ORD02478,4,"Packaged carefully, order was completely accurate. Loved it!"
+REV2063,ORD02705,3,"Food was okay, delivery time was acceptable."
+REV2064,ORD00283,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2065,ORD02749,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2066,ORD05718,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2067,ORD02161,3,"Food was okay, delivery time was acceptable."
+REV2068,ORD03566,3,"Food was okay, delivery time was acceptable."
+REV2069,ORD03716,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2070,ORD01627,3,"Food was okay, delivery time was acceptable."
+REV2071,ORD00488,3,"Food was okay, delivery time was acceptable."
+REV2072,ORD04105,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2073,ORD02090,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2074,ORD05506,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2075,ORD00542,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2076,ORD04858,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2077,ORD02700,3,"Food was okay, delivery time was acceptable."
+REV2078,ORD05631,3,"Food was okay, delivery time was acceptable."
+REV2079,ORD01868,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2080,ORD01366,3,"Food was okay, delivery time was acceptable."
+REV2081,ORD00996,5,Great service and tasty meal. Will definitely order again.
+REV2082,ORD05927,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2083,ORD04879,5,Great service and tasty meal. Will definitely order again.
+REV2084,ORD04624,3,"Food was okay, delivery time was acceptable."
+REV2085,ORD01408,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2086,ORD00243,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2087,ORD04513,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2088,ORD04003,3,"Food was okay, delivery time was acceptable."
+REV2089,ORD05000,3,"Food was okay, delivery time was acceptable."
+REV2090,ORD03771,3,"Food was okay, delivery time was acceptable."
+REV2091,ORD04906,3,"Food was okay, delivery time was acceptable."
+REV2092,ORD05491,3,"Food was okay, delivery time was acceptable."
+REV2093,ORD03313,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2094,ORD02740,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2095,ORD01080,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2096,ORD02850,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2097,ORD02671,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2098,ORD05886,3,"Food was okay, delivery time was acceptable."
+REV2099,ORD05891,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2100,ORD02514,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2101,ORD04747,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2102,ORD03506,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2103,ORD02542,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2104,ORD03361,3,"Food was okay, delivery time was acceptable."
+REV2105,ORD02753,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2106,ORD04646,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2107,ORD05843,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2108,ORD00241,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2109,ORD02022,3,"Food was okay, delivery time was acceptable."
+REV2110,ORD03303,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2111,ORD05155,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2112,ORD03715,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2113,ORD00940,3,"Food was okay, delivery time was acceptable."
+REV2114,ORD05186,3,"Food was okay, delivery time was acceptable."
+REV2115,ORD05963,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2116,ORD05177,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2117,ORD01935,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2118,ORD04305,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2119,ORD00683,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2120,ORD03987,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2121,ORD03524,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2122,ORD02227,3,"Food was okay, delivery time was acceptable."
+REV2123,ORD05656,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2124,ORD00995,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2125,ORD05076,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2126,ORD02872,5,"Incredible delivery speed, rider was courteous and professional."
+REV2127,ORD03037,3,"Food was okay, delivery time was acceptable."
+REV2128,ORD02035,5,Great service and tasty meal. Will definitely order again.
+REV2129,ORD01622,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2130,ORD05737,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2131,ORD00144,3,"Food was okay, delivery time was acceptable."
+REV2132,ORD03934,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2133,ORD01193,5,Food arrived burning hot and delicious!
+REV2134,ORD05731,3,"Food was okay, delivery time was acceptable."
+REV2135,ORD00076,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2136,ORD00462,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2137,ORD04057,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2138,ORD00176,3,"Food was okay, delivery time was acceptable."
+REV2139,ORD04930,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2140,ORD01249,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2141,ORD02900,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2142,ORD02243,3,"Food was okay, delivery time was acceptable."
+REV2143,ORD05879,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2144,ORD04533,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2145,ORD03723,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2146,ORD00328,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2147,ORD04642,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2148,ORD02145,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2149,ORD01170,3,"Food was okay, delivery time was acceptable."
+REV2150,ORD04342,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2151,ORD02103,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2152,ORD00518,2,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2153,ORD01923,3,"Food was okay, delivery time was acceptable."
+REV2154,ORD05175,3,"Food was okay, delivery time was acceptable."
+REV2155,ORD00442,3,"Food was okay, delivery time was acceptable."
+REV2156,ORD02019,5,Great service and tasty meal. Will definitely order again.
+REV2157,ORD03244,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2158,ORD03282,3,"Food was okay, delivery time was acceptable."
+REV2159,ORD05251,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2160,ORD03795,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2161,ORD04457,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2162,ORD04836,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2163,ORD02375,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2164,ORD02461,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2165,ORD04255,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2166,ORD05669,5,"Incredible delivery speed, rider was courteous and professional."
+REV2167,ORD01074,3,"Food was okay, delivery time was acceptable."
+REV2168,ORD01129,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2169,ORD05271,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2170,ORD02452,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2171,ORD04414,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2172,ORD04290,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2173,ORD01752,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2174,ORD02144,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2175,ORD03087,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2176,ORD02493,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2177,ORD05298,3,"Food was okay, delivery time was acceptable."
+REV2178,ORD02742,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2179,ORD05356,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2180,ORD03615,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2181,ORD04032,3,"Food was okay, delivery time was acceptable."
+REV2182,ORD04729,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2183,ORD05145,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2184,ORD02584,3,"Food was okay, delivery time was acceptable."
+REV2185,ORD02057,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2186,ORD00028,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2187,ORD01354,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2188,ORD00669,3,"Food was okay, delivery time was acceptable."
+REV2189,ORD03000,3,"Food was okay, delivery time was acceptable."
+REV2190,ORD03098,3,"Food was okay, delivery time was acceptable."
+REV2191,ORD04354,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2192,ORD02819,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2193,ORD00613,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2194,ORD05422,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2195,ORD02996,3,"Food was okay, delivery time was acceptable."
+REV2196,ORD05923,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2197,ORD05314,3,"Food was okay, delivery time was acceptable."
+REV2198,ORD05291,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2199,ORD00560,3,"Food was okay, delivery time was acceptable."
+REV2200,ORD03593,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2201,ORD02014,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2202,ORD04387,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2203,ORD05542,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2204,ORD02163,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2205,ORD01156,3,"Food was okay, delivery time was acceptable."
+REV2206,ORD04953,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2207,ORD04168,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2208,ORD03924,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2209,ORD02654,3,"Food was okay, delivery time was acceptable."
+REV2210,ORD00949,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2211,ORD02559,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2212,ORD04632,3,"Food was okay, delivery time was acceptable."
+REV2213,ORD01988,3,"Food was okay, delivery time was acceptable."
+REV2214,ORD03561,3,"Food was okay, delivery time was acceptable."
+REV2215,ORD03954,3,"Food was okay, delivery time was acceptable."
+REV2216,ORD03742,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2217,ORD02552,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2218,ORD05742,3,"Food was okay, delivery time was acceptable."
+REV2219,ORD04360,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2220,ORD04047,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2221,ORD05855,3,"Food was okay, delivery time was acceptable."
+REV2222,ORD01576,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2223,ORD01010,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2224,ORD01583,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2225,ORD05418,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2226,ORD04737,3,"Food was okay, delivery time was acceptable."
+REV2227,ORD00236,3,"Food was okay, delivery time was acceptable."
+REV2228,ORD05494,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2229,ORD05510,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2230,ORD00675,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2231,ORD04330,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2232,ORD00058,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2233,ORD04666,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2234,ORD03005,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2235,ORD00610,3,"Food was okay, delivery time was acceptable."
+REV2236,ORD05955,3,"Food was okay, delivery time was acceptable."
+REV2237,ORD03376,2,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2238,ORD03049,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2239,ORD03234,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2240,ORD01594,1,Delivery took way too long! Food was freezing cold upon arrival.
+REV2241,ORD01927,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2242,ORD05661,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2243,ORD02983,3,"Food was okay, delivery time was acceptable."
+REV2244,ORD04723,3,"Food was okay, delivery time was acceptable."
+REV2245,ORD03734,3,"Food was okay, delivery time was acceptable."
+REV2246,ORD01226,3,"Food was okay, delivery time was acceptable."
+REV2247,ORD04487,5,"Packaged carefully, order was completely accurate. Loved it!"
+REV2248,ORD02650,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2249,ORD05351,1,Missing drinks and cold fries. Extremely disappointed with this store.
+REV2250,ORD02760,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2251,ORD02636,3,"Portion sizes were smaller than expected, but arrived on time."
+REV2252,ORD01992,2,Delivery took way too long! Food was freezing cold upon arrival.
+REV2253,ORD01801,3,"Food was okay, delivery time was acceptable."
+REV2254,ORD01778,1,"Driver got lost, food was completely spilled inside the bag. Terrible."
+REV2255,ORD05813,3,"Portion sizes were smaller than expected, but arrived on time."
