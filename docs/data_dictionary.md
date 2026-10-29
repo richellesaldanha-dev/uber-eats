@@ -10,7 +10,7 @@ cat << 'EOF' > docs/data_dictionary.md
 - `is_premium_member`: Uber One membership status (True/False)
 
 ### 2. restaurants.csv
-- `restaurant_id`: Primary Key (e.g., R001)
+- `restaurant_id`: Primary Key (e.g., R0001)
 - `name`: Merchant name
 - `category`: Cuisine type (American, Italian, Indian, etc.)
 - `price_tier`: Price category ($, $$, $$$)

@@ -1,0 +1,1111 @@
+review_id,order_id,rating,review_text,sentiment,cleaned_text
+REV0002,ORD03008,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0004,ORD00147,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0005,ORD02538,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0007,ORD03467,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0008,ORD01438,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0016,ORD04364,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0020,ORD00377,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0021,ORD01040,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0022,ORD03538,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0023,ORD03882,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0024,ORD05119,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0025,ORD04505,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0026,ORD02920,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0029,ORD05624,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0030,ORD04496,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0031,ORD01743,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0032,ORD05936,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0033,ORD03808,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0034,ORD04913,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0035,ORD00829,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0037,ORD03344,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0039,ORD03325,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0040,ORD05214,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0041,ORD05607,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0048,ORD04052,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0050,ORD04125,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0051,ORD04509,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0052,ORD01971,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0056,ORD03635,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0057,ORD01442,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0058,ORD03104,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0059,ORD05408,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0062,ORD01273,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0064,ORD00897,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0065,ORD05350,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0066,ORD05257,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0068,ORD05693,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0070,ORD02910,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0071,ORD00900,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0072,ORD01107,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0073,ORD03327,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0075,ORD04124,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0076,ORD02931,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0077,ORD02519,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0080,ORD02169,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0083,ORD01911,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0084,ORD02999,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0090,ORD04422,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0091,ORD05171,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0092,ORD03712,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0093,ORD00323,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0095,ORD05088,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0097,ORD00734,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0098,ORD00130,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0099,ORD00036,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0100,ORD00112,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0101,ORD05913,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0102,ORD04893,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0103,ORD00443,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0105,ORD04946,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0108,ORD03678,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0109,ORD04468,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0112,ORD02610,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0115,ORD01011,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0116,ORD03276,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0117,ORD02187,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0118,ORD02260,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0120,ORD01459,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0122,ORD02077,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0126,ORD01581,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0132,ORD02736,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0133,ORD04453,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0134,ORD04058,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0137,ORD00229,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0141,ORD03603,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0144,ORD05925,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0145,ORD01399,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0147,ORD04447,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0151,ORD00646,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0152,ORD03296,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0153,ORD05920,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0154,ORD02541,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0155,ORD05397,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0156,ORD04200,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0160,ORD01761,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0161,ORD03331,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0162,ORD05110,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0165,ORD03328,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0166,ORD01716,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0169,ORD04755,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0170,ORD00521,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0172,ORD05280,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0173,ORD02556,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0174,ORD00545,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0175,ORD00729,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0177,ORD05820,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0180,ORD00480,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0182,ORD02296,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0184,ORD02596,4,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0186,ORD05015,4,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0187,ORD03048,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0190,ORD00746,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0192,ORD01813,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0194,ORD00764,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0195,ORD00215,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0199,ORD00879,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0201,ORD05365,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0203,ORD01847,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0204,ORD02221,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0205,ORD01795,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0213,ORD02684,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0214,ORD02264,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0218,ORD03963,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0219,ORD00612,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0222,ORD02355,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0223,ORD03727,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0225,ORD01896,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0229,ORD04440,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0230,ORD03083,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0231,ORD04584,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0232,ORD00416,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0233,ORD00925,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0235,ORD01787,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0241,ORD03285,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0242,ORD04406,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0243,ORD05310,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0245,ORD03216,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0246,ORD05523,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0248,ORD04397,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0251,ORD02751,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0255,ORD01644,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0257,ORD05982,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0260,ORD01462,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0261,ORD01563,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0262,ORD05528,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0263,ORD01456,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0264,ORD05954,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0265,ORD02105,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0269,ORD03455,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0270,ORD02691,4,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0272,ORD01555,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0278,ORD01799,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0280,ORD02272,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0281,ORD05430,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0284,ORD01670,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0287,ORD00987,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0288,ORD00760,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0290,ORD04120,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0292,ORD05502,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0294,ORD04321,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0296,ORD00219,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0298,ORD00360,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0301,ORD04611,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0302,ORD01342,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0303,ORD00595,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0305,ORD05045,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0307,ORD01694,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0308,ORD02508,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0312,ORD00527,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0316,ORD03560,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0319,ORD01069,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0321,ORD05195,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0327,ORD04942,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0328,ORD03890,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0331,ORD02685,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0333,ORD04948,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0335,ORD02945,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0337,ORD01997,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0338,ORD04904,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0341,ORD03677,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0345,ORD03366,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0346,ORD00051,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0348,ORD05129,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0350,ORD04813,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0353,ORD02132,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0355,ORD04181,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0356,ORD02040,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0359,ORD01633,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0360,ORD00651,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0362,ORD04703,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0363,ORD00186,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0364,ORD03980,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0365,ORD02589,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0366,ORD03018,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0369,ORD00748,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0373,ORD05206,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0374,ORD01489,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0377,ORD00264,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0378,ORD03067,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0380,ORD02739,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0381,ORD00765,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0382,ORD04206,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0384,ORD03458,4,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0385,ORD04099,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0387,ORD04818,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0390,ORD03356,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0391,ORD01714,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0392,ORD05590,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0394,ORD03182,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0396,ORD02400,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0397,ORD03251,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0398,ORD03236,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0399,ORD00571,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0402,ORD05637,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0404,ORD03788,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0405,ORD05436,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0409,ORD05025,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0410,ORD03872,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0415,ORD00915,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0416,ORD04489,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0419,ORD01513,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0421,ORD02665,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0426,ORD02871,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0427,ORD02324,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0428,ORD02561,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0434,ORD05158,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0443,ORD04037,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0444,ORD00495,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0445,ORD00728,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0446,ORD03446,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0447,ORD05663,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0448,ORD05895,4,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0449,ORD00346,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0452,ORD03579,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0453,ORD03390,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0454,ORD00846,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0455,ORD01682,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0456,ORD00985,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0459,ORD02693,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0461,ORD02717,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0462,ORD03859,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0463,ORD03015,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0464,ORD04223,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0466,ORD05844,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0467,ORD05671,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0468,ORD01621,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0470,ORD04749,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0471,ORD03918,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0473,ORD01131,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0475,ORD05871,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0476,ORD00572,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0477,ORD05558,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0478,ORD01907,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0479,ORD03794,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0482,ORD01974,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0491,ORD01097,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0492,ORD00869,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0495,ORD03413,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0496,ORD01201,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0497,ORD03302,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0500,ORD05173,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0501,ORD05749,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0504,ORD00157,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0505,ORD04543,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0507,ORD00624,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0511,ORD03869,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0512,ORD02899,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0513,ORD04306,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0515,ORD02474,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0517,ORD03192,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0519,ORD04337,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0520,ORD05849,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0521,ORD01378,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0522,ORD02381,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0523,ORD02898,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0524,ORD05381,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0525,ORD04925,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0527,ORD03600,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0532,ORD00988,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0533,ORD02151,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0536,ORD01867,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0537,ORD03790,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0540,ORD02274,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0542,ORD00499,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0543,ORD02944,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0544,ORD05063,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0546,ORD02007,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0547,ORD05763,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0548,ORD00966,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0550,ORD04017,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0551,ORD02976,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0552,ORD04752,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0554,ORD04389,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0555,ORD05932,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0557,ORD03359,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0559,ORD02001,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0564,ORD05461,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0565,ORD03300,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0566,ORD02773,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0568,ORD01931,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0569,ORD04026,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0574,ORD02586,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0575,ORD00061,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0576,ORD03210,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0578,ORD01711,4,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0579,ORD04859,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0580,ORD01684,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0581,ORD03906,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0583,ORD05522,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0586,ORD03085,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0587,ORD03927,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0588,ORD00913,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0590,ORD01564,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0592,ORD05357,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0595,ORD00800,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0596,ORD04450,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0601,ORD03679,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0602,ORD05269,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0604,ORD00394,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0606,ORD00437,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0609,ORD04837,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0610,ORD03518,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0614,ORD05595,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0615,ORD01672,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0620,ORD04563,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0623,ORD03664,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0625,ORD04176,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0626,ORD02129,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0627,ORD00604,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0628,ORD00273,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0629,ORD00090,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0631,ORD04681,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0633,ORD02543,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0634,ORD05816,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0636,ORD01161,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0642,ORD02203,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0643,ORD01275,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0644,ORD03961,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0646,ORD03511,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0647,ORD04865,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0649,ORD02928,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0650,ORD05675,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0654,ORD00911,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0655,ORD02770,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0657,ORD04949,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0659,ORD03154,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0661,ORD00606,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0664,ORD05685,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0666,ORD04846,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0667,ORD00534,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0668,ORD00511,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0671,ORD01560,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0672,ORD04040,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0673,ORD03031,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0675,ORD05005,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0678,ORD04773,4,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0680,ORD03606,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0682,ORD01614,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0683,ORD04705,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0684,ORD03901,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0687,ORD01666,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0688,ORD01265,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0691,ORD02239,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0693,ORD01162,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0697,ORD00739,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0701,ORD03591,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0704,ORD03937,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0707,ORD03903,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0708,ORD05111,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0709,ORD01973,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0713,ORD00809,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0717,ORD01477,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0720,ORD04784,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0722,ORD00017,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0723,ORD00621,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0725,ORD02768,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0727,ORD00755,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0730,ORD05149,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0731,ORD00355,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0732,ORD04575,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0734,ORD04762,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0737,ORD04148,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0739,ORD01421,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0741,ORD01632,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0742,ORD05325,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0744,ORD00638,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0745,ORD04852,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0746,ORD01483,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0748,ORD01921,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0750,ORD02581,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0752,ORD01176,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0753,ORD02186,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0754,ORD05306,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0755,ORD04466,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0761,ORD00078,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0763,ORD01111,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0764,ORD05255,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0765,ORD05783,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0768,ORD03181,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0773,ORD00883,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0774,ORD01744,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0782,ORD03912,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0788,ORD01198,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0789,ORD03893,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0793,ORD02619,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0794,ORD04630,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0796,ORD05464,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0799,ORD01427,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0800,ORD04600,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0801,ORD00972,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0802,ORD04868,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0809,ORD02323,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0810,ORD05727,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0811,ORD01906,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0813,ORD05483,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0816,ORD03459,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0817,ORD00412,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0818,ORD01089,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0819,ORD04378,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0821,ORD00782,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0826,ORD03427,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0827,ORD02031,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0830,ORD05654,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0833,ORD01135,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0834,ORD04581,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0835,ORD01446,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0837,ORD00481,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0839,ORD04034,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0842,ORD00896,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0846,ORD05371,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0849,ORD00094,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0852,ORD03777,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0853,ORD05978,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0854,ORD01962,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0861,ORD03721,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0865,ORD05449,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0867,ORD00858,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0870,ORD00742,4,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0874,ORD04527,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0875,ORD04072,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0878,ORD02193,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0879,ORD01676,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0880,ORD02234,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0881,ORD04383,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0882,ORD04219,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0885,ORD01710,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0886,ORD04769,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0889,ORD00068,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0892,ORD05992,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0893,ORD00826,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0895,ORD04481,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0896,ORD05039,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0897,ORD01428,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0898,ORD01269,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0899,ORD01571,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0900,ORD05540,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0901,ORD04862,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0903,ORD02495,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0907,ORD02424,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0908,ORD05266,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0913,ORD04515,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0915,ORD05974,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0917,ORD05833,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0923,ORD01144,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0924,ORD00602,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0927,ORD02237,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0928,ORD04424,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0929,ORD03162,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0931,ORD00670,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0933,ORD03860,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0934,ORD02477,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0936,ORD01742,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0937,ORD02188,4,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0940,ORD02551,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0942,ORD05032,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0943,ORD05077,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0944,ORD05699,4,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0945,ORD00148,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0946,ORD04499,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0947,ORD03997,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0948,ORD05814,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0951,ORD02432,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV0953,ORD04613,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0954,ORD03111,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0956,ORD02642,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0959,ORD05475,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0964,ORD05245,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0966,ORD02832,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0967,ORD03256,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0969,ORD04035,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0970,ORD00743,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0973,ORD02455,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0978,ORD03754,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV0981,ORD04141,4,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV0983,ORD03140,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0988,ORD00557,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0989,ORD03469,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0990,ORD02242,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0991,ORD05093,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0992,ORD03387,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV0993,ORD04585,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV0995,ORD00085,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV0997,ORD05447,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV0998,ORD05071,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1000,ORD02327,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1001,ORD02387,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1002,ORD04352,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1003,ORD01329,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1004,ORD02823,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1005,ORD02857,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1006,ORD01724,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1007,ORD03780,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1008,ORD04326,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1011,ORD01038,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1012,ORD00169,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1013,ORD05524,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1014,ORD01755,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1016,ORD01148,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1018,ORD05086,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1019,ORD02213,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1022,ORD05841,4,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1027,ORD02473,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1030,ORD05161,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1031,ORD00289,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1034,ORD01729,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1035,ORD05100,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1037,ORD00635,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1039,ORD04897,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1042,ORD04292,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1044,ORD04140,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1048,ORD05094,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1049,ORD02988,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1050,ORD01085,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1051,ORD00087,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1052,ORD03951,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1053,ORD04565,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1054,ORD01876,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1057,ORD05078,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1058,ORD00684,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1060,ORD02268,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1064,ORD02703,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1067,ORD05335,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1072,ORD02484,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1074,ORD03625,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1078,ORD00989,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1079,ORD05988,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1080,ORD04247,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1081,ORD03964,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1082,ORD04888,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1083,ORD00502,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1084,ORD03349,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1085,ORD03814,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1088,ORD02852,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1093,ORD05952,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1096,ORD05148,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1099,ORD02690,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1100,ORD00132,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1101,ORD01484,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1102,ORD00257,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1103,ORD01071,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1104,ORD05308,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1106,ORD02903,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1109,ORD05276,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1114,ORD02937,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1116,ORD05265,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1118,ORD00843,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1119,ORD03892,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1121,ORD00891,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1124,ORD02003,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1128,ORD00747,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1129,ORD02158,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1130,ORD05368,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1135,ORD04092,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1139,ORD04177,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1140,ORD02838,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1141,ORD00131,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1142,ORD00263,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1145,ORD00727,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1147,ORD04900,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1149,ORD00954,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1150,ORD03854,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1152,ORD02695,4,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1155,ORD04571,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1156,ORD04156,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1158,ORD00141,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1159,ORD00584,4,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1161,ORD03515,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1162,ORD00483,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1163,ORD03948,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1166,ORD03301,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1168,ORD01322,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1172,ORD03915,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1173,ORD01180,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1174,ORD03952,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1175,ORD04594,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1180,ORD04678,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1182,ORD05124,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1183,ORD04366,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1187,ORD05948,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1188,ORD04199,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1189,ORD01370,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1190,ORD04455,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1191,ORD02509,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1192,ORD04504,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1197,ORD02848,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1198,ORD05164,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1199,ORD03264,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1200,ORD03701,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1202,ORD04688,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1203,ORD05190,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1204,ORD01452,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1206,ORD02405,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1207,ORD04228,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1208,ORD02133,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1209,ORD03691,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1210,ORD03389,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1215,ORD05400,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1216,ORD01599,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1217,ORD04754,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1220,ORD01324,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1221,ORD00367,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1223,ORD01016,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1226,ORD01636,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1229,ORD04134,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1232,ORD04246,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1233,ORD00541,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1235,ORD02138,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1236,ORD03299,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1239,ORD00338,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1241,ORD01772,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1243,ORD02534,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1244,ORD01057,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1248,ORD05667,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1249,ORD02644,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1250,ORD01697,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1251,ORD03066,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1252,ORD03001,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1253,ORD05635,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1255,ORD01063,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1256,ORD03576,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1257,ORD04993,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1258,ORD00551,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1260,ORD02217,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1264,ORD02171,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1265,ORD02315,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1266,ORD01659,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1267,ORD02520,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1270,ORD02420,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1275,ORD03252,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1276,ORD01800,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1277,ORD00639,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1278,ORD03078,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1281,ORD03141,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1283,ORD01740,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1284,ORD00128,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1285,ORD02905,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1288,ORD01540,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1289,ORD01229,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1290,ORD01646,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1291,ORD00345,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1293,ORD01433,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1295,ORD04067,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1299,ORD04388,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1301,ORD04281,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1303,ORD04221,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1304,ORD00222,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1306,ORD01500,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1307,ORD05818,4,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1308,ORD04400,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1309,ORD04814,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1311,ORD04523,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1312,ORD04334,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1313,ORD02257,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1316,ORD05496,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1317,ORD04694,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1318,ORD02785,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1321,ORD04045,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1328,ORD02456,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1330,ORD03283,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1332,ORD01127,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1334,ORD02313,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1337,ORD03125,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1338,ORD04955,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1342,ORD03320,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1343,ORD03765,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1345,ORD03033,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1346,ORD02841,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1349,ORD03197,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1351,ORD05196,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1352,ORD05058,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1353,ORD02954,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1354,ORD02949,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1358,ORD00971,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1359,ORD02468,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1362,ORD03352,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1363,ORD01358,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1364,ORD05511,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1368,ORD03484,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1369,ORD00785,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1372,ORD00031,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1376,ORD04173,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1377,ORD05213,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1381,ORD03900,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1383,ORD03498,4,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1387,ORD00326,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1388,ORD01587,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1389,ORD00450,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1391,ORD00489,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1392,ORD00573,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1393,ORD05513,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1397,ORD01381,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1398,ORD00744,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1399,ORD01819,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1401,ORD01559,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1402,ORD05884,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1403,ORD02310,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1405,ORD03575,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1410,ORD04350,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1413,ORD01856,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1414,ORD00546,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1415,ORD01490,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1417,ORD03968,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1418,ORD01212,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1419,ORD01108,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1420,ORD05517,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1421,ORD00544,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1424,ORD03535,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1426,ORD04567,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1432,ORD01166,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1433,ORD04882,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1434,ORD05477,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1435,ORD00779,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1436,ORD00512,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1437,ORD04671,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1440,ORD00006,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1442,ORD00611,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1445,ORD02828,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1448,ORD02429,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1450,ORD00577,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1451,ORD03096,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1452,ORD01235,4,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1453,ORD01871,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1454,ORD04204,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1457,ORD05128,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1459,ORD02453,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1465,ORD04230,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1467,ORD03449,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1468,ORD01700,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1469,ORD04298,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1474,ORD02909,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1475,ORD05224,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1478,ORD03121,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1479,ORD01334,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1482,ORD01072,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1485,ORD00978,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1486,ORD05041,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1489,ORD03497,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1492,ORD00265,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1493,ORD01130,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1496,ORD01188,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1498,ORD01662,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1499,ORD05437,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1500,ORD05183,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1501,ORD04690,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1502,ORD04137,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1503,ORD04358,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1504,ORD01138,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1505,ORD01478,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1506,ORD02553,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1509,ORD00555,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1511,ORD02148,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1513,ORD03994,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1514,ORD01832,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1518,ORD05717,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1521,ORD05765,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1522,ORD05029,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1523,ORD03933,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1524,ORD02698,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1526,ORD03207,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1532,ORD03564,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1535,ORD00524,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1536,ORD03902,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1537,ORD05403,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1538,ORD03308,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1540,ORD04323,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1545,ORD04218,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1550,ORD03907,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1551,ORD00982,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1552,ORD03949,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1553,ORD03353,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1554,ORD01013,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1557,ORD04617,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1560,ORD01942,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1562,ORD03318,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1563,ORD00209,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1564,ORD03647,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1566,ORD05146,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1572,ORD00379,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1574,ORD00709,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1576,ORD04657,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1577,ORD05300,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1578,ORD01945,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1581,ORD04042,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1583,ORD02150,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1585,ORD05777,4,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1586,ORD04407,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1587,ORD04976,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1588,ORD01015,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1589,ORD04476,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1591,ORD02585,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1592,ORD02882,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1593,ORD05851,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1594,ORD00164,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1595,ORD05686,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1596,ORD04310,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1599,ORD05766,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1600,ORD04241,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1601,ORD01413,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1603,ORD03173,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1609,ORD04123,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1610,ORD04809,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1611,ORD02254,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1612,ORD05965,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1613,ORD05157,4,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1615,ORD04794,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1616,ORD02369,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1628,ORD05764,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1637,ORD02847,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1640,ORD04259,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1643,ORD02067,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1644,ORD02076,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1645,ORD02029,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1646,ORD02588,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1647,ORD04484,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1648,ORD02544,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1650,ORD04234,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1651,ORD04122,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1652,ORD04467,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1653,ORD03058,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1656,ORD05049,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1657,ORD04878,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1659,ORD05617,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1662,ORD04285,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1664,ORD05615,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1665,ORD02114,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1666,ORD01245,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1667,ORD04006,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1670,ORD00887,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1671,ORD01807,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1672,ORD05840,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1674,ORD04165,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1675,ORD00342,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1679,ORD04894,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1680,ORD04318,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1682,ORD05861,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1687,ORD02467,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1689,ORD02707,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1690,ORD03259,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1693,ORD00349,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1694,ORD05819,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1695,ORD04789,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1696,ORD04861,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1697,ORD04410,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1699,ORD05024,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1701,ORD05875,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1702,ORD04645,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1704,ORD05509,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1709,ORD01916,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1710,ORD01332,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1711,ORD03088,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1713,ORD00221,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1714,ORD04562,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1717,ORD00322,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1718,ORD05299,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1723,ORD03875,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1726,ORD05587,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1728,ORD05369,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1729,ORD01220,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1730,ORD00592,4,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1731,ORD03666,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1733,ORD02326,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1734,ORD05720,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1735,ORD00200,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1737,ORD04252,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1741,ORD05331,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1744,ORD02615,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1745,ORD05931,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1749,ORD01218,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1751,ORD05147,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1752,ORD01268,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1753,ORD05127,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1754,ORD03343,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1758,ORD01918,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1760,ORD00086,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1762,ORD00044,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1763,ORD00692,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1767,ORD02462,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1768,ORD03523,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1771,ORD03388,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1772,ORD05309,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1773,ORD01341,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1782,ORD05788,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1783,ORD00429,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1784,ORD04730,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1786,ORD02501,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1787,ORD01872,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1788,ORD03462,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1789,ORD04807,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1790,ORD03960,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1792,ORD05593,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1798,ORD05854,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1802,ORD04478,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1806,ORD03551,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1807,ORD01373,4,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1810,ORD05946,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1811,ORD05112,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1814,ORD00271,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1815,ORD05649,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1819,ORD04157,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1822,ORD03894,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1823,ORD05745,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1824,ORD04843,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1825,ORD01087,4,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1829,ORD01177,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1831,ORD02305,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1832,ORD00867,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1838,ORD00163,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1839,ORD03486,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1841,ORD00528,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1844,ORD03821,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1845,ORD03316,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1848,ORD03958,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1852,ORD02300,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1862,ORD00952,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1865,ORD04710,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1867,ORD00894,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1869,ORD03295,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1870,ORD03687,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1872,ORD01687,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1875,ORD03093,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1876,ORD03185,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1877,ORD02812,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1878,ORD00288,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1879,ORD00382,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1880,ORD00569,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1881,ORD05011,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1882,ORD02797,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1886,ORD01983,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1888,ORD04967,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1889,ORD00140,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1892,ORD04982,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1893,ORD02246,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1895,ORD03787,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1896,ORD05101,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1897,ORD01424,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1898,ORD03317,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1900,ORD00226,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1905,ORD05484,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1907,ORD05714,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1909,ORD03174,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1911,ORD01879,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1912,ORD05317,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1913,ORD02554,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1914,ORD03350,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1916,ORD03355,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1918,ORD03862,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1920,ORD00364,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1921,ORD01008,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1922,ORD04270,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1927,ORD01494,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1928,ORD00070,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1929,ORD04113,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1931,ORD04375,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1933,ORD05837,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1937,ORD00133,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1939,ORD00414,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1943,ORD02929,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1944,ORD00375,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV1946,ORD02414,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1951,ORD02146,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1955,ORD02411,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1956,ORD00663,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1958,ORD04111,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1962,ORD03526,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1964,ORD02649,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1965,ORD04578,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1966,ORD00767,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1968,ORD00753,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1969,ORD04745,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV1972,ORD03123,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1976,ORD00449,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1980,ORD02840,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1981,ORD03609,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1983,ORD00135,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1984,ORD01285,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV1986,ORD05889,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1988,ORD02071,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1989,ORD02655,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV1990,ORD05229,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV1992,ORD00424,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1993,ORD01870,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1995,ORD03531,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV1996,ORD02454,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV1999,ORD04082,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2000,ORD02605,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV2001,ORD04816,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2002,ORD05881,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2005,ORD00936,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2009,ORD01863,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2010,ORD01745,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2014,ORD01808,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2016,ORD03905,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV2019,ORD01828,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV2020,ORD02207,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2021,ORD05810,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV2022,ORD03341,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2023,ORD01963,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2024,ORD05087,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2025,ORD03796,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2028,ORD03542,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2030,ORD00129,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2031,ORD04914,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2032,ORD01041,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2035,ORD00245,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2036,ORD01845,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2037,ORD05379,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2038,ORD05612,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2040,ORD04380,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV2044,ORD03457,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2045,ORD03407,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2046,ORD05355,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV2048,ORD02353,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2050,ORD05426,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2053,ORD05746,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2055,ORD00868,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2056,ORD00203,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2059,ORD04395,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2062,ORD02478,4,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV2064,ORD00283,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2065,ORD02749,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2066,ORD05718,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2069,ORD03716,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2072,ORD04105,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2073,ORD02090,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2075,ORD00542,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2079,ORD01868,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2081,ORD00996,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV2083,ORD04879,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV2086,ORD00243,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2087,ORD04513,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2093,ORD03313,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2094,ORD02740,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2095,ORD01080,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2097,ORD02671,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2099,ORD05891,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2100,ORD02514,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2101,ORD04747,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2102,ORD03506,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2110,ORD03303,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2116,ORD05177,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2117,ORD01935,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2118,ORD04305,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2120,ORD03987,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2121,ORD03524,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2123,ORD05656,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2125,ORD05076,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2126,ORD02872,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV2128,ORD02035,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV2133,ORD01193,5,Food arrived burning hot and delicious!,1,food arrived burning hot delicious
+REV2135,ORD00076,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2137,ORD04057,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2139,ORD04930,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2141,ORD02900,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2144,ORD04533,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2147,ORD04642,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2148,ORD02145,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2151,ORD02103,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2152,ORD00518,2,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2156,ORD02019,5,Great service and tasty meal. Will definitely order again.,1,great service tasty meal definitely order
+REV2157,ORD03244,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2161,ORD04457,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2162,ORD04836,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2163,ORD02375,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2164,ORD02461,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2166,ORD05669,5,"Incredible delivery speed, rider was courteous and professional.",1,incredible delivery speed rider courteous professional
+REV2168,ORD01129,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2170,ORD02452,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2175,ORD03087,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2176,ORD02493,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2178,ORD02742,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2179,ORD05356,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2180,ORD03615,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2185,ORD02057,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2186,ORD00028,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2187,ORD01354,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2191,ORD04354,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2193,ORD00613,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2194,ORD05422,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2201,ORD02014,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2202,ORD04387,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2207,ORD04168,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2208,ORD03924,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2210,ORD00949,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2211,ORD02559,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2219,ORD04360,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2220,ORD04047,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2222,ORD01576,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2223,ORD01010,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2228,ORD05494,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2231,ORD04330,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2233,ORD04666,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2237,ORD03376,2,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2238,ORD03049,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible
+REV2239,ORD03234,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2240,ORD01594,1,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2242,ORD05661,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2247,ORD04487,5,"Packaged carefully, order was completely accurate. Loved it!",1,packaged carefully order completely accurate loved
+REV2249,ORD05351,1,Missing drinks and cold fries. Extremely disappointed with this store.,0,missing drink cold fry extremely disappointed store
+REV2252,ORD01992,2,Delivery took way too long! Food was freezing cold upon arrival.,0,delivery took way long food freezing cold upon arrival
+REV2254,ORD01778,1,"Driver got lost, food was completely spilled inside the bag. Terrible.",0,driver got lost food completely spilled inside bag terrible

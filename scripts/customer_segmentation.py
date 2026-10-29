@@ -13,9 +13,8 @@ from sklearn.decomposition import PCA
 os.makedirs("data/processed", exist_ok=True)
 os.makedirs("docs", exist_ok=True)
 
-# ---------------------------------------------------------
 # Part 1: Feature Engineering (Customers)
-# ---------------------------------------------------------
+
 print("Loading raw datasets...")
 customers = pd.read_csv("data/raw/customers.csv")
 orders = pd.read_csv("data/raw/orders.csv")
@@ -62,9 +61,9 @@ customer_features['ordering_frequency'] = np.round(customer_features['total_orde
 customer_features.to_csv("data/processed/customer_features.csv", index=False)
 print("Saved feature dataset to data/processed/customer_features.csv")
 
-# ---------------------------------------------------------
+
 # Part 2: Feature Selection & Scaling
-# ---------------------------------------------------------
+
 # Separate identifiers and target clustering columns
 feature_cols = [
     'total_orders', 'avg_order_value', 'total_spending',
@@ -76,9 +75,8 @@ X = customer_features[feature_cols].copy()
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
-# ---------------------------------------------------------
 # Part 3: K-Means (Elbow Method & Silhouette Analysis)
-# ---------------------------------------------------------
+
 print("Evaluating K-Means cluster candidates (k=2 to 8)...")
 inertia = []
 silhouette_scores = []
@@ -118,9 +116,9 @@ customer_features['kmeans_cluster'] = kmeans.fit_predict(X_scaled)
 
 print(f"Optimal K-Means Silhouette Score (k={optimal_k}): {silhouette_score(X_scaled, kmeans.labels_):.3f}")
 
-# ---------------------------------------------------------
+
 # Part 4: DBSCAN (Density-Based Clustering & Outlier Detection)
-# ---------------------------------------------------------
+
 # eps: neighborhood radius, min_samples: minimum points to form a dense region
 dbscan = DBSCAN(eps=1.5, min_samples=8)
 customer_features['dbscan_cluster'] = dbscan.fit_predict(X_scaled)
@@ -129,9 +127,9 @@ noise_count = (customer_features['dbscan_cluster'] == -1).sum()
 dense_clusters = len(set(customer_features['dbscan_cluster'])) - (1 if -1 in customer_features['dbscan_cluster'] else 0)
 print(f"DBSCAN detected {dense_clusters} dense clusters and {noise_count} outlier/noise points.")
 
-# ---------------------------------------------------------
+
 # Part 5: PCA & Visualization
-# ---------------------------------------------------------
+
 pca = PCA(n_components=2, random_state=42)
 pca_transformed = pca.fit_transform(X_scaled)
 
@@ -155,9 +153,9 @@ plt.savefig("docs/pca_clusters.png")
 plt.close()
 print("Saved PCA visualization to docs/pca_clusters.png")
 
-# ---------------------------------------------------------
+
 # Part 6: Cluster Profiling & Business Personas
-# ---------------------------------------------------------
+
 profile = customer_features.groupby('kmeans_cluster')[feature_cols].mean().round(2)
 print("\n" + "="*70)
 print("CLUSTER PROFILES (MEANS PER FEATURE):")
