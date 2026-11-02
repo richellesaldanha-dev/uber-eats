@@ -1,0 +1,3 @@
+order_id,customer_id,prep_time_min,distance_km,order_amount,item_count,hour_of_day,day_of_week,weather,traffic,vehicle_type,category,price_tier,review_text,cluster_id,customer_persona,predicted_sentiment,sentiment_label,predicted_eta_min,churn_risk_flag
+ORD-LIVE-9001,105,18.0,4.2,42.5,3,19,4,Rainy,High,Scooter,Fast Food,$$,The delivery was delayed in heavy rain and the food was cold and leaking.,0,Occasional Budget,0,Negative,32.5,True
+ORD-LIVE-9002,312,12.0,1.8,18.0,1,13,1,Clear,Low,Bicycle,Cafe,$,Super fast delivery and fresh hot coffee! Driver was polite.,0,Occasional Budget,1,Positive,8.0,False
